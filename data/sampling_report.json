@@ -1,0 +1,14 @@
+{
+  "total_profiles": 482,
+  "bucket_counts": {
+    "generous_casual": 150,
+    "very_thin": 50,
+    "balanced_casual": 150,
+    "balanced_formal": 30,
+    "thin": 80,
+    "harsh_casual": 17,
+    "generous_formal": 4,
+    "harsh_formal": 1
+  },
+  "built_at": "2026-05-10T15:05:27.377310"
+}
