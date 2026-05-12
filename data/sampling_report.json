@@ -1,19 +1,18 @@
 {
   "total_profiles": 482,
   "bucket_counts": {
-    "very_thin": 50,
-    "balanced_casual": 150,
-    "generous_casual": 150,
-    "balanced_formal": 30,
-    "thin": 80,
     "harsh_casual": 17,
+    "thin": 80,
+    "balanced_casual": 150,
+    "balanced_formal": 30,
+    "generous_casual": 150,
+    "very_thin": 50,
     "generous_formal": 4,
     "harsh_formal": 1
   },
   "llm_stats": {
-    "complete": 478,
-    "fallback": 4
+    "complete": 482
   },
   "model_used": "meta-llama/llama-4-scout-17b-16e-instruct",
-  "built_at": "2026-05-11T11:20:37.975179"
+  "built_at": "2026-05-12T08:34:21.639832"
 }

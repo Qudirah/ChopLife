@@ -68,15 +68,25 @@ SECONDARY_FOOD_CATS = {
 }
  
 # ── Stratified sampling targets ───────────────────────────────────────────────
+# Option 2 — targets adjusted to match actually available users.
+# Aspirational targets replaced with realistic ones based on first run.
 # tone: casual | formal only — no pidgin from Yelp (US-dominated dataset)
 # Nigerian register applied at agent output layer via Nairaland corpus
+#
+# Cold-start fallback hierarchy (applies to BOTH tasks):
+#   Level 1: use thin history as-is, weight low
+#   Level 2: similar user borrowing (tendency + tone + cuisine match)
+#   Level 3: global Yelp aggregate baseline
+#   Level 4: onboarding questionnaire — Task B front end ONLY
+#   Nigerian baseline is NOT a cold-start fallback. It is a Task B
+#   voice calibration only. Using it as a prior degrades Task A fidelity.
 WARM_BUCKETS = {
-    ("generous", "casual"): 150,
-    ("generous", "formal"):  60,
-    ("balanced", "casual"): 150,
-    ("balanced", "formal"):  60,
-    ("harsh",    "casual"): 100,
-    ("harsh",    "formal"):  40,
+    ("generous", "casual"): 150,  # 195 available — take 150
+    ("generous", "formal"):   4,  # 4 available   — take all
+    ("balanced", "casual"): 150,  # 883 available — take 150
+    ("balanced", "formal"):  30,  # 30 available  — take all
+    ("harsh",    "casual"):  17,  # 17 available  — take all
+    ("harsh",    "formal"):   1,  # 1 available   — take all
 }
 COLD_BUCKETS = {
     "thin":      {"min": 5,  "max": 14, "target": 80},
@@ -402,10 +412,24 @@ Return ONLY valid JSON — no preamble, no markdown:
   "complaint_triggers": ["up to 5 things that consistently earn low ratings"],
   "preferred_price_sensitivity": "budget | mid-range | upscale | unclear",
   "occasion_patterns": ["patterns in when or why they eat out"],
-  "notable_behaviours": ["distinctive patterns useful for simulating their reviews"]
+  "notable_behaviours": ["distinctive patterns useful for simulating their reviews"],
+  "dietary_context": {{
+    "halal_only": true or false or null,
+    "inferred_from": "text_mentions | reviewed_businesses | absence_signal | unclear",
+    "confidence": "high | medium | low | unknown",
+    "notes": "brief explanation of what signal led to this inference"
+  }}
 }}
  
-Rules: be specific, use the user's own language, do not invent signals not in the text."""
+Rules:
+- Be specific. Use the user's own language where it captures something precisely.
+- Do not invent signals not present in the text.
+- For dietary_context:
+    high confidence   = user explicitly mentions halal, haram, or avoids pork/alcohol by name
+    medium confidence = user consistently reviews halal-certified restaurants
+    low confidence    = user never mentions pork or alcohol across many reviews (absence signal)
+    unknown           = insufficient signal to infer
+- If you cannot determine dietary preference, set halal_only to null and confidence to unknown."""
  
     def call_api():
         return groq_client.chat.completions.create(
@@ -423,43 +447,65 @@ Rules: be specific, use the user's own language, do not invent signals not in th
                 raw = raw[4:]
         return json.loads(raw.strip())
  
-    # first attempt
-    try:
-        response = call_api()
-        return parse_response(response), "complete"
+    def attempt(retries_left: int, backoff: int) -> tuple:
+        """
+        Recursive retry with exponential backoff.
+        Handles both 429 (rate limit) and 503 (capacity) separately.
+        """
+        try:
+            response = call_api()
+            return parse_response(response), "complete"
  
-    except Exception as e:
-        error_str = str(e)
+        except json.JSONDecodeError as e:
+            # malformed JSON — attempt simple repair before giving up
+            raw = getattr(e, 'doc', '') or ''
+            # try to extract JSON object substring
+            start = raw.find('{')
+            end   = raw.rfind('}')
+            if start != -1 and end != -1 and end > start:
+                try:
+                    return json.loads(raw[start:end+1]), "complete"
+                except Exception:
+                    pass
+            print(f"  [WARN] JSON repair failed for {user_id}")
+            return _fallback_taste_signals(), "fallback"
  
-        # check for rate limit
-        if "429" in error_str or "rate limit" in error_str.lower():
-            # parse retry-after seconds from error message
-            wait_secs = RATE_LIMIT_WAIT_SECS
-            match = re.search(r'try again in (\d+)m(\d+)', error_str)
-            if match:
-                wait_secs = int(match.group(1)) * 60 + int(match.group(2)) + 10
-            else:
-                match = re.search(r'try again in ([\d.]+)s', error_str)
+        except Exception as e:
+            error_str = str(e)
+ 
+            # ── 429 Rate limit ────────────────────────────────────────────
+            if "429" in error_str or "rate limit" in error_str.lower():
+                wait_secs = RATE_LIMIT_WAIT_SECS
+                match = re.search(r'try again in (\d+)m(\d+)', error_str)
                 if match:
-                    wait_secs = int(float(match.group(1))) + 5
+                    wait_secs = int(match.group(1)) * 60 + int(match.group(2)) + 10
+                else:
+                    match = re.search(r'try again in ([\d.]+)s', error_str)
+                    if match:
+                        wait_secs = int(float(match.group(1))) + 5
  
-            print(f"\n  [RATE LIMIT] Waiting {wait_secs}s before retry "
-                  f"(~{wait_secs//60}m {wait_secs%60}s)...")
-            print(f"  Progress saved. You can Ctrl+C and --resume after "
-                  f"{wait_secs//60} minutes if needed.")
- 
-            time.sleep(wait_secs)
- 
-            # retry once
-            try:
-                response = call_api()
-                return parse_response(response), "complete"
-            except Exception as e2:
-                print(f"  [WARN] Retry failed for {user_id}: {e2}")
+                print(f"\n  [RATE LIMIT 429] Waiting {wait_secs}s "
+                      f"(~{wait_secs//60}m). Ctrl+C then --resume if needed.")
+                time.sleep(wait_secs)
+                if retries_left > 0:
+                    return attempt(retries_left - 1, backoff * 2)
                 return _fallback_taste_signals(), "fallback"
  
-        print(f"  [WARN] LLM extraction failed for {user_id}: {e}")
-        return _fallback_taste_signals(), "fallback"
+            # ── 503 Capacity ──────────────────────────────────────────────
+            if "503" in error_str or "over capacity" in error_str.lower():
+                if retries_left > 0:
+                    print(f"  [503 CAPACITY] Backing off {backoff}s, "
+                          f"{retries_left} retries left...")
+                    time.sleep(backoff)
+                    return attempt(retries_left - 1, backoff * 2)
+                print(f"  [WARN] 503 retries exhausted for {user_id}")
+                return _fallback_taste_signals(), "fallback"
+ 
+            # ── Other errors ──────────────────────────────────────────────
+            print(f"  [WARN] LLM extraction failed for {user_id}: {e}")
+            return _fallback_taste_signals(), "fallback"
+ 
+    return attempt(retries_left=3, backoff=10)
  
  
 def _fallback_taste_signals() -> dict:
@@ -471,6 +517,12 @@ def _fallback_taste_signals() -> dict:
         "preferred_price_sensitivity": "unclear",
         "occasion_patterns":           [],
         "notable_behaviours":          [],
+        "dietary_context": {
+            "halal_only":      None,
+            "inferred_from":   "unclear",
+            "confidence":      "unknown",
+            "notes":           "LLM extraction failed — dietary preference unknown",
+        },
     }
  
  
@@ -820,8 +872,15 @@ def main():
     print("\n[1/5] Loading and filtering businesses...")
     biz_path = os.path.join(args.data_dir, "yelp_academic_dataset_business.json")
     all_biz  = load_jsonl(biz_path)
-    food_biz = {b["business_id"]: b for b in all_biz if is_food_business(b)}
-    print(f"  {len(all_biz):,} total → {len(food_biz):,} food businesses")
+    food_biz_raw = [b for b in all_biz if is_food_business(b)]
+    # flag halal businesses — used in dietary context inference and Task B filter
+    for b in food_biz_raw:
+        cats_lower = (b.get("categories") or "").lower()
+        b["is_halal"] = "halal" in cats_lower
+    food_biz = {b["business_id"]: b for b in food_biz_raw}
+    halal_count = sum(1 for b in food_biz_raw if b["is_halal"])
+    print(f"  {len(all_biz):,} total → {len(food_biz):,} food businesses "
+          f"({halal_count:,} halal-flagged)")
  
     # ── [2/5] Load user metadata ─────────────────────────────────────────────
     print("\n[2/5] Loading user metadata...")
@@ -919,21 +978,25 @@ def main():
             "thin"      if count < 15 else
             f"{tendency}_{tone}"
         )
+        dietary = profile.get("taste_signals",{}).get("dietary_context",{})
         profile_index.append({
-            "user_id":       uid,
-            "name":          profile["user_metadata"].get("name",""),
-            "total_reviews": count,
-            "total_tips":    profile["meta"]["total_tips"],
-            "avg_rating":    profile["rating_profile"]["weighted_mean"],
-            "median_rating": profile["rating_profile"]["median"],
-            "tendency":      tendency,
-            "tone":          tone,
-            "confidence":    profile["confidence"]["score"],
-            "drift":         profile["drift"]["detected"],
-            "is_elite":      profile["user_metadata"].get("is_elite",False),
-            "llm_status":    profile.get("llm_status","unknown"),
-            "bucket":        bucket,
-            "last_review":   profile["meta"]["last_review"],
+            "user_id":          uid,
+            "name":             profile["user_metadata"].get("name",""),
+            "total_reviews":    count,
+            "total_tips":       profile["meta"]["total_tips"],
+            "avg_rating":       profile["rating_profile"]["weighted_mean"],
+            "median_rating":    profile["rating_profile"]["median"],
+            "tendency":         tendency,
+            "tone":             tone,
+            "confidence":       profile["confidence"]["score"],
+            "drift":            profile["drift"]["detected"],
+            "is_elite":         profile["user_metadata"].get("is_elite",False),
+            "llm_status":       profile.get("llm_status","unknown"),
+            "bucket":           bucket,
+            "last_review":      profile["meta"]["last_review"],
+            # halal flag surfaced for fast Task B candidate filtering
+            "halal_only":       dietary.get("halal_only"),
+            "halal_confidence": dietary.get("confidence","unknown"),
         })
  
     # ── Write outputs ────────────────────────────────────────────────────────
