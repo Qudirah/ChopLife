@@ -1,0 +1,1500 @@
+{
+  "results": [
+    {
+      "user_id": "CjJhEzdWQNEKa7grwPRQyg",
+      "business_id": "0mijbNf-7wiKJ9xto1pAyg",
+      "predicted_rating": 5,
+      "actual_rating": 5.0,
+      "rating_error": 0.0,
+      "review_text": "I'm obsessed with Spice Finch! Unreal breakfast spot in Philly. I stopped by on a sunny Saturday morning, and the vibe was perfect. The moment I walked in, I knew I was in for a treat. The decor was cute, with a mix of modern and Mediterranean touches. Now, the food \u2013 oh my god, the food! I ordered the shakshuka, and it was love at first bite. The eggs were cooked to perfection, and the spices were amazing. I'm talking wow, I'm talking best breakfast I've had in ages. The service was top-notch, too. Our server was friendly and attentive, and the atmosphere was lively but not too loud. I'm definitely coming back, and I'm already planning my next meal. Five stars, no question. Absolutely love this place!",
+      "actual_text": "Spice Finch is one of my favorite new restaurants in Philly! I really love this place!! The food is amazing. \n\nSome of my favorite dishes are: \n1. Date Truffles - wow! Dates with pomegranate & cashew, these little balls are small but packs a delicious mouthful of flavor! Love these. \n2. Stuffed Grape Leaves - these are not your typical grape leaves, like every other Greek restaurant. these are different, with fennel, apricot, and a delicious yogurt sauce. \n3. Lemon Yogurt dipping sauce is absolutely phenomenal. Make sure to get a side of it, its only $4 and worth every penny. Dip in it with the light flaky dough bread, I think its $2.\n\nSome other dishes I really liked was the eggplant meal, carrots app, and cauliflower app. The Octopus I had high hopes for, but it really wasn't as good as I expected. Still decent though. \n\nThe drinks are also amazing. The Clover Club is one of my favorites, but I've also had some others that are great. The Redemption drinks are creative and funny, the midori one was is really good. \n\nService is always great, and the ambiance is easy to please anyone.. its fancy enough for a nice date, but casual enough that its not awkward. Its also good for business dinners. The bar is very large so there's usually seats open, but try to make reservations in advance since Spice Finch is so good, that its usually always packed. I love it! Highly recommended.",
+      "authorship_score": 82,
+      "profile_strength": 72,
+      "profile_strength_label": "moderate",
+      "rewrite_count": 0,
+      "trigger_match": {
+        "base_rating": 4.5,
+        "praise_hits": [
+          "amazing food",
+          "favorite",
+          "love",
+          "wow"
+        ],
+        "complaint_hits": [],
+        "flavour_hits": [
+          "amazing"
+        ],
+        "praise_bonus": 0.6,
+        "complaint_penalty": 0.0,
+        "flavour_bonus": 0.15,
+        "adjusted_rating": 5.0,
+        "predicted_star": 5.0,
+        "explanation": "Base: 4.5\u2605 +0.6 praise match (amazing food, favorite, love, wow) +0.1 flavour match (amazing) = 5.0\u2605 \u2192 5.0\u2605"
+      }
+    },
+    {
+      "user_id": "7NHf3QgyGlZ_9pwdWLFdhA",
+      "business_id": "ugSj0rWlWQ57-FuKuieGXA",
+      "predicted_rating": 5,
+      "actual_rating": 5.0,
+      "rating_error": 0.0,
+      "review_text": "I stumbled upon Tampa Pizza Co - Westchase while exploring the Westchase neighborhood, and I'm so glad I did! Not all who wander are lost, right? Their outdoor seating area had a lovely vibe, perfect for a casual dinner with friends. I walked in around 6 pm on a Friday, and the atmosphere was lively, with a decent crowd but not too loud. I ordered the Margherita pizza, and let me tell you, it was love at first bite! The crust was crispy, and the flavors were so fresh - I could taste the sweetness of the tomatoes and the savory goodness of the mozzarella. My boyfriend, who's a total pizza connoisseur, had the Quattro Formaggi, and he gave it two thumbs up. The service was top-notch; our server, Alex, was friendly and attentive, checking in on us just the right amount of times. When I asked for a recommendation, he suggested their signature salad, which I'd have to try next time - delish! All in all, Tampa Pizza Co - Westchase has earned a spot on my favorite restaurants list. Definitely a hidden gem in the Westchase area, and I'll be back for sure! One of my favorite spots!",
+      "actual_text": "Although pizza is their game, i am crazy about their sandwiches! In my opinion if a pizza place does sandwiches, give em a try! Why?? Its all in the bread, which is basically the same dough as their pizza (and I love and adore pizza!!).What makes Tampa Pizza so special in particular is everything else in the sandwich is high in quality so i keep forgetting theyre a pizza place. Each sandwich is assembled with love and care every time I order one. Their meats are tender and in just the right proportion, well seasoned and cooked. I love their grilled chicken and hand carved turkey. They also come with quality greens, and sauces. My favorite is the Turkey Bacon swiss sandwich which has a generous portion of that tender turkey I love so much, a pile of flavorful crispy bacon, and swiss cheese melted in their delicious organic bread that is the crown jewel of any sandwich. You can pair the sandwich with fries, but the sandwich itself is so filling i opt for the arugula salad. Its not much to rave about, i mean its salad, but its a good side to go with it if your watching your calories and you want help digesting your food so the meal's not so heavy. Admittedly i have yet to have their pizza, but rest assured I plan on it.",
+      "authorship_score": 82,
+      "profile_strength": 64,
+      "profile_strength_label": "moderate",
+      "rewrite_count": 0,
+      "trigger_match": {
+        "base_rating": 5.0,
+        "praise_hits": [
+          "customer service"
+        ],
+        "complaint_hits": [],
+        "flavour_hits": [
+          "tasty",
+          "fresh"
+        ],
+        "praise_bonus": 0.2,
+        "complaint_penalty": 0.0,
+        "flavour_bonus": 0.3,
+        "adjusted_rating": 5.0,
+        "predicted_star": 5.0,
+        "explanation": "Base: 5.0\u2605 +0.2 praise match (customer service) +0.3 flavour match (tasty, fresh) = 5.0\u2605 \u2192 5.0\u2605"
+      }
+    },
+    {
+      "user_id": "qm796RfFpk4hWp2W9yEHCg",
+      "business_id": "mQvRi0nm84Www71d4qOheQ",
+      "predicted_rating": 4,
+      "actual_rating": 5.0,
+      "rating_error": -1.0,
+      "review_text": "I've always been a huge fan of Indian food, and Ekta Indian Cuisine is definitely a gem on the Mainline. Tucked away on a tiny strip of shops in Bryn Mawr, this place is an easy recommendation for anyone craving some of the best Indian dishes around. I stopped by on a Friday evening, and the friendly staff made us feel welcome right away. I ordered the onion naan, which was absolutely divine - crispy on the outside, fluffy on the inside, and packed with flavor. The malai kofta was also a highlight, with a creamy sauce that complemented the tender paneer perfectly. But the real star of the show was the Chicken Tikka Masala, which was rich, creamy, and seriously hit the spot. The atmosphere was cozy, if a bit on the smaller side, but the decor was tasteful and added to the overall ambiance. I will say that the service was a bit slow, but our server was apologetic and made sure we had everything we needed. Overall, I'd confidently give Ekta Indian Cuisine 4 stars - the food was great, the service was friendly, and the atmosphere was warm and inviting. That being said, it's not quite the top-tier Indian restaurant I've had the pleasure of visiting, but it's definitely a solid choice for a night out. If you're in the area and craving some delicious Indian cuisine, Ekta is definitely worth a try. And if you're lucky, you might even catch one of their special events - I heard they do a fantastic Diwali celebration every year.",
+      "actual_text": "Some of the best Indian food I've had, Ekta Indian Cuisine will satisfy all of your Indian food cravings.\n\nI'm not going to pretend I'm an expert on Indian food, but I can confidently say this is some of the best Indian food on the mainline. Ekta Indian Cuisine is a small regional chain (only three locations) authentic Indian place in Bryn Mawr (parking across the street in a small lot that is usually full from Tin Lizard hipsters). It's causal dining with an upscale look, perfect for a date or a group of friends.\n\nWe started with some Garlic Naan ($3.49 - white flour bread flavored with garlic), which is more than enough for two people and was soft, warm, and delicious with the roasted garlic. For our main courses, we ordered the Tandoori Chicken ($13.50 - chicken leg marinated with yogurt, ginger, more garlic baked in Tandoor oven) and the Navratna Curry ($12.25 - Mixed vegetables cooked with creamy onion tomato and cashew sauce). I can wholeheartedly recommend both dishes. The chicken in the tandoori dish was flavorful and juicy, with big hunks of chicken (good for 2-4 people to share). The star of the night was the Navratna Curry - creamy, flavorful, and rich, the dish is nirvana to eat and will have you licking the empty dish to be sure that you get every morsel.\n\nIn sum, Ekta Indian Cuisine was a joy to visit and I would happily come back again and again. Defintely mark this down as a must-visit in Bryn Mawr.",
+      "authorship_score": 82,
+      "profile_strength": 44,
+      "profile_strength_label": "limited",
+      "rewrite_count": 0,
+      "trigger_match": {
+        "base_rating": 4.27,
+        "praise_hits": [],
+        "complaint_hits": [],
+        "flavour_hits": [],
+        "praise_bonus": 0.0,
+        "complaint_penalty": 0.0,
+        "flavour_bonus": 0.0,
+        "adjusted_rating": 4.81,
+        "predicted_star": 4.81,
+        "explanation": "Base: 4.3\u2605 = 4.8\u2605 \u2192 4.81\u2605"
+      }
+    },
+    {
+      "user_id": "JRnJvyx_FpvWMWWKic8arg",
+      "business_id": "M4pf66QgBEu45FF_ivqk7g",
+      "predicted_rating": 5,
+      "actual_rating": 4.0,
+      "rating_error": 1.0,
+      "review_text": "Stopped by Pacific Counter for lunch. Great sushi spot! Definitely a gem. Fresh and delicious, love their poke bowls. Service was on point, very friendly staff. Atmosphere's pretty chill, perfect for a casual meal. Overall, highly recommend this place. Will definitely be back for more!",
+      "actual_text": "Fresh delicious bowls- great customer service! Refreshing drinks . Love it and can't wait to go back.",
+      "authorship_score": 82,
+      "profile_strength": 64,
+      "profile_strength_label": "moderate",
+      "rewrite_count": 0,
+      "trigger_match": {
+        "base_rating": 4.37,
+        "praise_hits": [],
+        "complaint_hits": [],
+        "flavour_hits": [
+          "delicious",
+          "fresh",
+          "great"
+        ],
+        "praise_bonus": 0.0,
+        "complaint_penalty": 0.0,
+        "flavour_bonus": 0.4,
+        "adjusted_rating": 5.0,
+        "predicted_star": 5.0,
+        "explanation": "Base: 4.4\u2605 +0.4 flavour match (delicious, fresh, great) = 5.0\u2605 \u2192 5.0\u2605"
+      }
+    },
+    {
+      "user_id": "vFd8aBLg1kFcd0kCkoi-xw",
+      "business_id": "FTFtoylMzkrzqNVSl-bkKw",
+      "predicted_rating": 5,
+      "actual_rating": 5.0,
+      "rating_error": 0.0,
+      "review_text": "Stopped by Giant Food Stores in Philly. Unreal deals on fresh produce! The bakery section is a must-visit - their almond croissants are absolutely delicious and moist. Friendly staff, too! Service is on point, always helpful. Perfect for a quick grocery run or grabbing some sweet treats. Love it!",
+      "actual_text": "This supermarket is a great addition to the city. It's a literally giant modern supermarket. Upon entering the store you can find a nice Starbucks cafe. There's an escalator for human and escalator for the shopping cart. On the second floor there's a door to go to a nice size patio to enjoy beautiful weather and city view. Near the floral section you can find French macarons, cupcakes, and gelato. You pay it there. The macarons are pretty good but a bit too sweet for me. \n\nThere are rows of handhelds scanners that links to your Giant card. You scan your groceries and pay what you bought. I haven't tried it but a friendly employee explained it to me.\n\nIf you don't have a Giant card you can apply at the customer service. It allows you to get special prices. Also at the customer service, you can find a map  of the store which is handy due to the size of the store.\n\nThere's kombucha station by the produce section. There are some local products such as varieties of peanut butter and almond butter. Once you pass the produce you will find sushi station where sushi are preapared on site, Salad works, prepared foods including varieties of uncooked flatbreads that can be made there. As you follow along on the left you will find Mission Taqueria. Their main restaurant is at 15 and Sansom. At the back area you will find varieties of beer on tap, in the fridge, and on the shelf. You can find soft pretzel to, perfect companion for the beer. There are seating areas and tv to watching sports. Also you can enjoy the view of river while you are enjoying your beer and or dessert, which are available next to the beer section. You don't feel like you're in a supermarket. \n\nWhat is special about this supermarket is that they carry a lot of local products: High Street Bread, Isgro's pastries, Claudio's pasta and cheese, DiBruno's cheese spread. Next to the deli station is the cannoli counter where you can pick the shell ( regular or chocolate covered), choose the fillings (regular, strawberry, blueberry) and put some toppings if you like. However I don't recommend the regular cannoli, it's bland. \n\nThey have products that I've never seen them n other stores such as plantain flour, crepe mix. Most importantly, at the meat section they have dry-aged beef in a special glass display.\n\nThere's also a special section dedicated for plant-based food.\n\nAt the checkout, there are several self service and the regular ones. The register station is similar to the ones at Trader Joe's. No conveyor belt, small space to put your groceries so you have to unload them a bit at a time. Very environmentally friendly with paper bags.\n\nIn summary, this supermarket gives you a different kind of experience. I called it grocery shopping with a view.",
+      "authorship_score": 82,
+      "profile_strength": 77,
+      "profile_strength_label": "strong",
+      "rewrite_count": 0,
+      "trigger_match": {
+        "base_rating": 4.55,
+        "praise_hits": [
+          "friendly staff"
+        ],
+        "complaint_hits": [],
+        "flavour_hits": [
+          "sweet"
+        ],
+        "praise_bonus": 0.2,
+        "complaint_penalty": 0.0,
+        "flavour_bonus": 0.15,
+        "adjusted_rating": 5.0,
+        "predicted_star": 5.0,
+        "explanation": "Base: 4.5\u2605 +0.2 praise match (friendly staff) +0.1 flavour match (sweet) = 5.0\u2605 \u2192 5.0\u2605"
+      }
+    },
+    {
+      "user_id": "zrESudirjip-s8wxxAB0xw",
+      "business_id": "FHNIvNgh3fS7VZQq2Y3dsA",
+      "predicted_rating": 5,
+      "actual_rating": 5.0,
+      "rating_error": 0.0,
+      "review_text": "I'm not gonna lie, Cheu Noodle Bar is a game-changer. The restaurant is gorgeous to start with, fun and hip atmosphere that immediately caught my attention. I stopped by on a Sunday and was immediately greeted by the friendly staff, which set the tone for an excellent visit. The menu is off the charts, with so many unique options to choose from, but I definitely went for the Brisket Ramen, which I'd heard rave reviews about - and boy, it did not disappoint. The noodles were cooked to perfection, and that brisket? Absolutely phenomenal. My wife had the pastrami dumplings, which she loved, and we both enjoyed the corn and coconut curry as a side. The service was stellar, our server was attentive and knowledgeable, and the atmosphere was lively and engaging. I could tell they put a lot of thought into creating a unique experience, and it definitely paid off. All in all, Cheu Noodle Bar is an amazing spot, and I'd highly recommend it to anyone looking for a great meal. Love the vibe, love the food - what more could you ask for?",
+      "actual_text": "Finally got the chance to stop by Cheu this past weekend.  Definitely one of those situations where you're super excited to find a new favorite spot, but know its so close to home that you're going to want to go 2-3 times a week.  We snagged a seat at a table but now regret that as the counter seems the way to go if you are lucky enough to get a spot.  Next time.  \n\nThere's a solid drink menu with cocktails, canned craft beer, sake, wine....definitely impressed with all the Sixpoint choices, even had Resin on special.  Kudos to the two old timers that decided to go for the last two...\n\nMy wife and I split as much food as possible to get a good sampling of the menu and we weren't disappointed with a single thing.  We started with fresh tomatoes with yuzu, ricotta, watermelon, and mint along with the charred corn with miso truffle, and black vinegar.  Both were incredible and very different.  Either dish would bring me back.  We then had a pork belly bun and a cheeseburger bun.  These were almost like perfect little (southern) biscuits....my god I could eat 20.  The BBQ pig tails with peach kimchi and seasame...finger-licking good.  Then we finished off splitting the brisket noodle bowl with matzo ball, kimchi, egg noodles, chili broth.  The homemade chili oil spiced this up nicely and I can't wait to have this in the winter.  \n\nMan, soooo good. I love love love this place and can't wait to go back. I don't know if we ordered super well or if this place is really just that good.",
+      "authorship_score": 82,
+      "profile_strength": 72,
+      "profile_strength_label": "moderate",
+      "rewrite_count": 0,
+      "trigger_match": {
+        "base_rating": 4.14,
+        "praise_hits": [
+          "amazing"
+        ],
+        "complaint_hits": [],
+        "flavour_hits": [
+          "fantastic",
+          "excellent",
+          "amazing",
+          "good"
+        ],
+        "praise_bonus": 0.2,
+        "complaint_penalty": 0.0,
+        "flavour_bonus": 0.4,
+        "adjusted_rating": 5.0,
+        "predicted_star": 5.0,
+        "explanation": "Base: 4.1\u2605 +0.2 praise match (amazing) +0.4 flavour match (fantastic, excellent, amazing, good) = 5.0\u2605 \u2192 5.0\u2605"
+      }
+    },
+    {
+      "user_id": "UlWDGR0QrBbdFsVY6ugocw",
+      "business_id": "Tq5jFk_BMSJG8-flqj5Bgw",
+      "predicted_rating": 5,
+      "actual_rating": 5.0,
+      "rating_error": 0.0,
+      "review_text": "I'm not gonna lie, I was a bit skeptical about trying Dewey's Pizza in University City, MO, because I'm super picky about my pies. But, oh man, I'm so glad I gave it a shot. I stopped by on a Friday afternoon, and the vibe was super chill and welcoming. The staff was really friendly, and we got seated right away. I love a good atmosphere, and Dewey's definitely delivers. Now, onto the food \u2013 which, let's be real, is the most important part. I went with the Tito Santana pizza, and it did NOT disappoint. The crust was extra cheesy and had just the right amount of crunch. And the toppings? Fresh and plentiful. I'm a sucker for a good Harvest Salad, too, and theirs was solid. Service was top-notch, too. Our waitress was attentive and knowledgeable about the menu. I appreciated the curbside pickup option, which made it easy to grab our food and go. Overall, Dewey's Pizza is definitely going on my list of favorite spots. Unreal.",
+      "actual_text": "Dewey's is such a solid place to get pizza. It's always great and I don't have a single negative thing to say!\n\nTheir wine list is great, as is the entire menu. I love their salads (not as a pizza replacement, of course. Are you crazy?) I love to switch up the pizzas I order, but sometimes end up going with a classic pepperoni. The Green Lantern, Killer Veggie, and Meatball pizzas are all winners. Dessert is always great, too, and is usually from another local spot.\n\nI love the window where kids can watch the pizza being tossed as they wait for theirs to come out. It definitely helps keep them occupied.\n\nService at this location is always so friendly. We will be back sometime very soon!",
+      "authorship_score": 82,
+      "profile_strength": 77,
+      "profile_strength_label": "strong",
+      "rewrite_count": 0,
+      "trigger_match": {
+        "base_rating": 4.67,
+        "praise_hits": [],
+        "complaint_hits": [],
+        "flavour_hits": [
+          "fresh",
+          "flavorful"
+        ],
+        "praise_bonus": 0.0,
+        "complaint_penalty": 0.0,
+        "flavour_bonus": 0.3,
+        "adjusted_rating": 5.0,
+        "predicted_star": 5.0,
+        "explanation": "Base: 4.7\u2605 +0.3 flavour match (fresh, flavorful) = 5.0\u2605 \u2192 5.0\u2605"
+      }
+    },
+    {
+      "user_id": "4YyJpeAr6jsY0FaIbLiTSQ",
+      "business_id": "9q9dj6p7Qwm022YtPMTulQ",
+      "predicted_rating": 5,
+      "actual_rating": 3.0,
+      "rating_error": 2.0,
+      "review_text": "I'm a sucker for fresh-baked cookies, and Insomnia Cookies definitely delivers! Ordered a few of their famous warm cookies for delivery, and I was not disappointed. The service was super friendly and efficient - love their enthusiasm! Cookies arrived still warm, and the aroma was amazing. Tried the chocolate chip and the peanut butter cookies - both were absolutely perfect. The chocolate chip had just the right amount of sweetness, and the peanut butter cookie was fresh and had a wonderful texture. Clean and modern packaging, too - really appreciate the attention to detail. Staff clearly care about making their customers happy. Will definitely be ordering from Insomnia Cookies again - and I'm already craving more! Great job, Insomnia Cookies - you've earned a loyal customer! Unreal cookies, and wonderful service to match!",
+      "actual_text": "I've ordered Insomnia Cookies twice now and although I'm not bowled over, I'm not completely turned off.\n\nIt's a great concept - you can order hot from the oven cookies that are delivered 24/7 to your door. Great for those hard core party nights when you have few munching choices and certainly shouldn't be behind the wheel, or if you're up all night studying/working and just need a snack break.\n\nI've ordered from my office and brought the cookies home to my girlie, and she's a fan of the stuffed cookies. I've ordered 6 packs and chosen double chocolate - ho hum, chocolate chip - not bad, white chocolate macadamia nut - my favorite of the bunch, and birthday cake - not my favorite. I thought I'd show them some COVID love since the college students are gone right now and the area is relatively quiet compared to pre corona times.  My wait was much longer than I could've anticipated each time. I'm talking like an hour wait for a box of 6 cookies and a stuffed cookie. WHAT?!  \n\nThe cookies were definitely hot, but they don't taste homemade. More like store bought, pre-made dough. And I'm not taking Nestle toll-house dough either. I mean like generic. grocery store brand, refrigerator case dough.\n\nThe pluses:\n\nContactless delivery\nCookies are hot\nDelivered 24/7",
+      "authorship_score": 82,
+      "profile_strength": 72,
+      "profile_strength_label": "moderate",
+      "rewrite_count": 0,
+      "trigger_match": {
+        "base_rating": 4.34,
+        "praise_hits": [
+          "fresh ingredients",
+          "cleanliness",
+          "service"
+        ],
+        "complaint_hits": [],
+        "flavour_hits": [
+          "fresh",
+          "hot",
+          "sweet"
+        ],
+        "praise_bonus": 0.6,
+        "complaint_penalty": 0.0,
+        "flavour_bonus": 0.4,
+        "adjusted_rating": 5.0,
+        "predicted_star": 5.0,
+        "explanation": "Base: 4.3\u2605 +0.6 praise match (fresh ingredients, cleanliness, service) +0.4 flavour match (fresh, hot, sweet) = 5.0\u2605 \u2192 5.0\u2605"
+      }
+    },
+    {
+      "user_id": "f4v6QDA88r8RZAEpCsVsTQ",
+      "business_id": "RI33oswGDkIsc0fuQ8GzjA",
+      "predicted_rating": 4,
+      "actual_rating": 4.0,
+      "rating_error": 0.0,
+      "review_text": "Loved it ! Oregon Steaks, you're a gem. Came for the cheesesteaks, left impressed. Ordered the Philly cheesesteak, huge portion ! Staff was super friendly, very helpful. Menu had a great selection, cute specials. Prices were pretty reasonable, love a good deal. Atmosphere was lively, but kinda loud. Overall, definitely recommend, great food !",
+      "actual_text": "ugh. guilty pleasure - cheese fries and a cheese steak being delivered late night after drinking! friendly drivers dropping off the delivery and good pricing.",
+      "authorship_score": 82,
+      "profile_strength": 72,
+      "profile_strength_label": "moderate",
+      "rewrite_count": 0,
+      "trigger_match": {
+        "base_rating": 4.37,
+        "praise_hits": [
+          "good service",
+          "good food",
+          "friendly staff"
+        ],
+        "complaint_hits": [
+          "poor service"
+        ],
+        "flavour_hits": [
+          "fruity"
+        ],
+        "praise_bonus": 0.6,
+        "complaint_penalty": 0.25,
+        "flavour_bonus": 0.15,
+        "adjusted_rating": 4.84,
+        "predicted_star": 4.84,
+        "explanation": "Base: 4.4\u2605 +0.6 praise match (good service, good food, friendly staff) +0.1 flavour match (fruity) -0.2 complaint match (poor service) = 4.8\u2605 \u2192 4.84\u2605"
+      }
+    },
+    {
+      "user_id": "W7iLDP6GY4joKZ1zSCOEfA",
+      "business_id": "B3JF06ctShiYJeg1FyJ5jA",
+      "predicted_rating": 4,
+      "actual_rating": 4.0,
+      "rating_error": 0.0,
+      "review_text": "I stopped by Remedy Cafe on a whim, and honestly, I'm so glad I did. The moment I walked in, I was hit with the most amazing aroma - their chai is definitely on point. The atmosphere is pretty adorable, with a cozy little vibe that's perfect for a casual coffee chat or date. I ordered the butter chicken, which was seriously delicious, and the service was quick and friendly. The prices are pretty unbeatable, especially considering the quality of the food. No such luck with parking, though - be prepared to circle the block a few times. Overall, I'd definitely recommend Remedy Cafe to anyone looking for a great Indian meal or just a cup of coffee. Love this place, and I'll definitely be back. And, can I just say, their desserts are pretty amazing too.",
+      "actual_text": "Well seriously, who doesn't love Remedy. It's the perfect place to go on a date or meet up with your girl friends for coffee chats that last hours. I've had some great drinks and food at this location and some even better heart to hearts with great friends. The staff are wonderful people, it's close to campus making it an ideal off campus, but still kinda close venue to get away and study. \n\nI find this location is quite busy so you may have to wait a little while to find a table. Over all though I would never pass on an opportunity to hit up remedy, it's pretty rad!",
+      "authorship_score": 82,
+      "profile_strength": 62,
+      "profile_strength_label": "moderate",
+      "rewrite_count": 0,
+      "trigger_match": {
+        "base_rating": 4.09,
+        "praise_hits": [],
+        "complaint_hits": [],
+        "flavour_hits": [
+          "adorable"
+        ],
+        "praise_bonus": 0.0,
+        "complaint_penalty": 0.0,
+        "flavour_bonus": 0.15,
+        "adjusted_rating": 4.37,
+        "predicted_star": 4.37,
+        "explanation": "Base: 4.1\u2605 +0.1 flavour match (adorable) = 4.4\u2605 \u2192 4.37\u2605"
+      }
+    },
+    {
+      "user_id": "_JMWR5rfgV93Ztd0VGAItw",
+      "business_id": "rR30b1XWbxZFFgLyGbfNAw",
+      "predicted_rating": 5,
+      "actual_rating": 4.0,
+      "rating_error": 1.0,
+      "review_text": "I stopped by BODHI on a Friday evening, and I must say, it was a stellar experience. Depends what you are wanting to eat, but if you're in the mood for authentic Thai cuisine, this place definitely delivers. The moment I walked in, I was impressed by the hidden gem of a bar they have here - the selection of craft beers and Thai-inspired cocktails is really quite impressive. The menu had a great variety of dishes, and I was excited to try some of their signature Thai offerings. I went with the spicy Thai basil chicken, which was absolutely well spiced and authentic in taste. The flavors were really balanced, and the portion was generous. The environment was also noteworthy - the decor had a great mix of modern and traditional Thai elements, and the service was top-notch. Overall, I was really impressed with BODHI, and I think it's a great addition to the Indianapolis dining scene. The combination of delicious food, great drinks, and cozy atmosphere makes it a solid 5-star experience. I will definitely be back.",
+      "actual_text": "I have eaten here now a few times. I'd have to say I had a more difficult time coming up with a review than most restaurants because what they do well is very good but there are also some dishes that disappoint. \n\nFood: The noodle soup is very good. It is authentic and is like something served in Chicago, NYC, Seattle, etc. The broth is spicy with some sourness and sweetness, going best with ground pork. The laab is also pretty good. Nice and mint forward which is always nice! The thai basil (pad ka prao) is served with minced meat which is the authentic style, however, taste is a bit underwhelming. The chicken satay was pretty bad. The chicken seemed undercooked throughout, rubbery, and was just simply not quality. This is a shame because their peanut sauce is homemade and very tasty. Spring rolls also looked great in presentation but almost seemed store bought with a mushy veg mix inside. Overall very mixed, and a bit disappointed they don't incorporate other authentic dishes such as thai sausage, moo ping, Khao moo dang, Khao mun gai, etc. \n\nDrinks: very good. When they mention it is a cocktail lounge with thai food, this is a true statement. The cocktails are nuanced and complex, comparing close to other cocktail lounges in the area. \n\nAmbiance and service: both great, they did a fantastic job taking over the old black market and renovating it to their own.",
+      "authorship_score": 82,
+      "profile_strength": 52,
+      "profile_strength_label": "moderate",
+      "rewrite_count": 0,
+      "trigger_match": {
+        "base_rating": 4.47,
+        "praise_hits": [
+          "beer"
+        ],
+        "complaint_hits": [],
+        "flavour_hits": [
+          "well spiced"
+        ],
+        "praise_bonus": 0.2,
+        "complaint_penalty": 0.0,
+        "flavour_bonus": 0.15,
+        "adjusted_rating": 5.0,
+        "predicted_star": 5.0,
+        "explanation": "Base: 4.5\u2605 +0.2 praise match (beer) +0.1 flavour match (well spiced) = 5.0\u2605 \u2192 5.0\u2605"
+      }
+    },
+    {
+      "user_id": "-GowNe73gDZs9MfS3ugJDQ",
+      "business_id": "FkRQ735Sh9JOsHBQYXFkEw",
+      "predicted_rating": 5,
+      "actual_rating": 5.0,
+      "rating_error": 0.0,
+      "review_text": "I'm thrilled to have stumbled upon Reno Coffee Company, a hidden gem that's been brewing up some seriously amazing coffee in the heart of Reno. My friend and I decided to grab a cup of joe on a sunny Saturday morning, and boy, are we glad we did! As we walked in, we were immediately greeted by the friendly staff, who made us feel right at home. The atmosphere is cozy and inviting, with a modern touch that makes you want to linger over your cup of coffee. And speaking of coffee, oh man, their brews are absolutely dynamite! From the perfectly balanced flavors to the velvety texture, every sip was a delight. We tried a few of their signature drinks, including the mojito latte, which was a refreshing twist on a classic favorite. The flavors were expertly crafted, and the presentation was pretty impressive, too. I mean, who doesn't love a good Instagram-worthy coffee cup? What really sets Reno Coffee Company apart, though, is their commitment to supporting local. You can tell that they're passionate about what they do, and it shows in every aspect of their business. From the high-quality ingredients to the warm and welcoming service, it's clear that they're dedicated to making a real difference in their community. As a coffee aficionado, I'm always on the lookout for places that truly understand the art of brewing. Reno Coffee Company definitely hits the mark, and I'd highly recommend it to anyone looking for a top-notch cup of coffee. And with their impressive selection of beer and wine, there's something for everyone. All in all, my experience at Reno Coffee Company was absolutely fantastic. The combination of great coffee, friendly service, and charming atmosphere makes it a must-visit spot in Reno. I'll definitely be back, and I think you should give it a try, too! One last thing: be sure to check out their hours of operation, as they do close a bit early on weekends. But trust me, it's worth getting there to experience the magic for yourself. Five stars, without a doubt!",
+      "actual_text": "Yes, I know I just recently reviewed this place.  But dang it, I cannot stay away, or say enough good stuff about Reno Coffee Company.  Too often the fancy espresso drinks get all the glory.  But you will find none of those here.  Instead, the owners and staff have taken the art of brewed coffee to a whole new level.\n\nThey start with great quality beans, which you can also purchase bags of for your own use, and from there craft individually tailored beverages for each customer.  They grind the beans for each cup to order, then brew with an ingenious set of pour-over contraptions built right into the countertop.  You can take the coffee straight up to enjoy the quality of the beans on their own, or elect for a few add-ons.  The Average Joe is the option to customize your brew with the additions of dairy, assorted types of sweeteners, whether you like it frothed, and finished with a dusting of spices.  Some may point out the smaller selection of customizable options here, but I would argue what they do have all help accentuate the coffee itself, without weighing down with too many other flavors.  Also on the menu are two signature drinks of their own.  One is the Morning Mojito, an iced coffee sweetened with agave and the addition of mint.  The other is the Bullet Proof, mixed with Ghee, MCT Oil and brown sugar, is a drink where you will for sure feel a real spring in your step after drinking.  Beyond the coffee, there is hot chocolate and tea available, along with a few bottled beverages in the fridge case, but no food options, which I actually view as a plus in a place like this.  Prices are definitely a bit higher than pretty much anyplace else for brewed coffee, with you often paying about a dollar or so more than other caf\u00e9s.  However, I think this is well worth the price tag, as you are getting some serious quality packed into your cup, and if you think about it, they are no more pricey than those fancy espresso drinks.\n\nThe service here is absolutely fantastic, and exceptionally friendly.  The staff here really know their stuff, and make what is by far the fastest pour-over brew I have ever seen.  The shop itself is tiny, smaller than most offices, and tucked back in the alley that is Roff Street down by the river in the bottom of the Arlington Tower.  There is just room enough for the counter and a few seats by the window, but don't let that deter you, since this place is exceedingly charming, and there is a very lovely little garden patio just outside which I will eagerly be looking forward to sitting in when the nice weather returns.  The place is easy enough to find if you are walking around the neighborhood, but parking might be a bit tight.\n\nAll in all, this is for sure my favorite coffee shop in town these days.  I have been nothing but impressed, and I can't recommend them highly enough.  I will certainly be back, eager to snag perhaps the best Cup O' Joe in the city.  Cheers!",
+      "authorship_score": 82,
+      "profile_strength": 54,
+      "profile_strength_label": "moderate",
+      "rewrite_count": 0,
+      "trigger_match": {
+        "base_rating": 4.31,
+        "praise_hits": [],
+        "complaint_hits": [],
+        "flavour_hits": [
+          "dynamite beverages",
+          "perfectly brewed coffee"
+        ],
+        "praise_bonus": 0.0,
+        "complaint_penalty": 0.0,
+        "flavour_bonus": 0.3,
+        "adjusted_rating": 5.0,
+        "predicted_star": 5.0,
+        "explanation": "Base: 4.3\u2605 +0.3 flavour match (dynamite beverages, perfectly brewed coffee) = 5.0\u2605 \u2192 5.0\u2605"
+      }
+    },
+    {
+      "user_id": "JyzLjUFEIW3epNlHI6Oa6Q",
+      "business_id": "rkem6aEo3vAG2VufybdwuA",
+      "predicted_rating": 3,
+      "actual_rating": 3.0,
+      "rating_error": 0.0,
+      "review_text": "I'm not gonna lie, Outback Steakhouse isn't my go-to spot for a fancy night out, but I ended up here with some friends on a Sunday afternoon. We walked in around 2 pm, and it was pretty hopping, which wasn't a surprise given it's a popular chain. The menu's quite extensive, but I decided to try their famous Bloomin' Onion, which I'd heard great things about. The food took a bit of a wait, but I wasn't disappointed with the assortment of mini-donuts and onion petals that came with it. My steak, a ribeye, was cooked to perfection, and the service was friendly, if a bit slow. The atmosphere's definitely not the most impressive, but it's a great spot for a casual meal with family or friends. Overall, it was a good experience, but not exactly the best steakhouse I've been to. I'd definitely try it again, but maybe not for a special occasion.",
+      "actual_text": "I've been to this location a few times over the past few years and I noticed on my most recent visit that quality of food and the location, itself, has gone downhill.  Not to mention, there isn't much value for the quality/quantity of food you get compared to similar restaurants in the area. \n\nThe restaurant felt dingy and our booth was a bit sticky and grimy.  Service was pretty average and the Grilled Chicken on the Barbie I had was actually flavored very well.  I did substitute the mixed vegetables for 4 sprigs of asparagus, which resulted in an upcharge for some reason.  Also, for an entr\u00e9e that included a breast of chicken and four asparagus, I don't know that $20 seems like a good deal.",
+      "authorship_score": 82,
+      "profile_strength": 75,
+      "profile_strength_label": "strong",
+      "rewrite_count": 0,
+      "trigger_match": {
+        "base_rating": 3.93,
+        "praise_hits": [],
+        "complaint_hits": [
+          "long wait"
+        ],
+        "flavour_hits": [
+          "great"
+        ],
+        "praise_bonus": 0.0,
+        "complaint_penalty": 0.25,
+        "flavour_bonus": 0.15,
+        "adjusted_rating": 3.75,
+        "predicted_star": 3.75,
+        "explanation": "Base: 3.9\u2605 +0.1 flavour match (great) -0.2 complaint match (long wait) = 3.8\u2605 \u2192 3.75\u2605"
+      }
+    },
+    {
+      "user_id": "Am_G2m0pwVrEg9AoUp5tow",
+      "business_id": "PxEiXqMAzzvp8GFlb5EoLg",
+      "predicted_rating": 4,
+      "actual_rating": 4.0,
+      "rating_error": 0.0,
+      "review_text": "I stopped by Grain Exchange last weekend with some friends and had a great time. The menu read like a love letter to American comfort food, which, let's be real, is my weakness. We started with the truffle fries, which were absolutely delicious, and I mean, who doesn't love truffle? The service was top-notch, our server, Alex, was super personable and made some great recommendations. The atmosphere was lively, with a fun crowd and cool decor, but it felt a little sterile at times. Prices were mid-range, which I think is pretty fair considering the quality of food and drinks. Overall, I'd definitely recommend Grain Exchange for a night out with friends - and their weekend specials are a must-try! One tip: ask Alex about their drink specials, he's got the inside scoop.",
+      "actual_text": "I'm always looking for something new to try in Mount Airy, so when JJ suggested we go to Grain Exchange for brunch, I was all in. We easily found street parking about half a block away, and walked into a nearly empty bar (it was early). \n\nAlthough I appreciated the sign advertising $5 breakfast cocktails (!!!), I wasn't really in the mood to drink, so I ordered coffee instead. The coffee was light and received generous refills from our perky waitress (who paid us a lot of attention, possibly because we were her only table for a while). I ordered the fried waffles Benedict, which was an unexpected but welcome combo. One large waffle and two large pieces of fried chicken came with a side of syrup. On the other side of the plate, one perfectly poached egg coated in bearnaise sauce sat atop a small muffin-sized cup of hash brown. I loved this plate, mostly because it came with both of my favorite brunch items without being too large to handle.\n\nThis is a hidden gem for brunch in Mount Airy. In addition to the meat-eater's options, I was also impressed that a full half of the menu was devoted to vegetarian items. I'm looking forward to returning for another visit!",
+      "authorship_score": 82,
+      "profile_strength": 75,
+      "profile_strength_label": "strong",
+      "rewrite_count": 0,
+      "trigger_match": {
+        "base_rating": 3.83,
+        "praise_hits": [
+          "delicious food"
+        ],
+        "complaint_hits": [],
+        "flavour_hits": [
+          "delicious"
+        ],
+        "praise_bonus": 0.2,
+        "complaint_penalty": 0.0,
+        "flavour_bonus": 0.15,
+        "adjusted_rating": 4.21,
+        "predicted_star": 4.21,
+        "explanation": "Base: 3.8\u2605 +0.2 praise match (delicious food) +0.1 flavour match (delicious) = 4.2\u2605 \u2192 4.21\u2605"
+      }
+    },
+    {
+      "user_id": "8VNmuYmFboXleIFf-stnFg",
+      "business_id": "RCguFZat10TcbDMeeeM3IQ",
+      "predicted_rating": 3,
+      "actual_rating": 2.0,
+      "rating_error": 1.0,
+      "review_text": "I stopped by El Pollo Loco in Reno, NV, with friends, kinda curious about their Mexican-inspired chicken. We ordered a few things, including their famous fire-grilled chicken and some sides. The chicken was, definitely, the star of the show - love their use of fresh, flavorful ingredients. That sauce, though, was a bit too sweet for my taste. The atmosphere was, well, pretty standard fast-food fare - not exactly a vibrant spot, but it gets the job done. Service was friendly, but seemed a bit harried, like they were short-staffed or something. Value-wise, it's hard to beat the prices, but I left feeling like I'd had a decent, not great, meal. Overall, it's an okay spot for a quick, affordable bite, but don't expect to be blown away.",
+      "actual_text": "I should know better than to exit a drive-thru without thoroughly checking the order first. It was dinner hour and I guess I didn't want to hold up the line. Regardless, got home to find I had been given the wrong bowls, no salsa, no receipt, and no sign of the side I'd ordered. Obviously, they handed me the next guy's order, and I paid a 25% premium for what I received. Hope he enjoyed my food.",
+      "authorship_score": 82,
+      "profile_strength": 75,
+      "profile_strength_label": "strong",
+      "rewrite_count": 0,
+      "trigger_match": {
+        "base_rating": 3.72,
+        "praise_hits": [
+          "flavorful dishes",
+          "friendly service"
+        ],
+        "complaint_hits": [
+          "overpriced"
+        ],
+        "flavour_hits": [],
+        "praise_bonus": 0.4,
+        "complaint_penalty": 0.25,
+        "flavour_bonus": 0.0,
+        "adjusted_rating": 3.37,
+        "predicted_star": 3.37,
+        "explanation": "Base: 3.7\u2605 +0.4 praise match (flavorful dishes, friendly service) -0.2 complaint match (overpriced) = 3.4\u2605 \u2192 3.37\u2605"
+      }
+    },
+    {
+      "user_id": "jFSrZYDK85AM4Yhrbg99kg",
+      "business_id": "G3u9BQ7cc-IcXOfNyFKmnw",
+      "predicted_rating": 2,
+      "actual_rating": 1.0,
+      "rating_error": 1.0,
+      "review_text": "Stopped by Wasabi Sushi Bar. Great space, modern decor. No such luck with food. Shrimp tempura tasted pretty good. But sushi rolls, not so much. Too much rice, little flavor. Service was friendly, I'll give that. Some beers on tap, nice. Overall, pretty meh. Love sushi, but this wasn't it.",
+      "actual_text": "Nasty flavor. Very sloppy presentation. Empty on Thursday night. Never again. Best part was the serve staff.",
+      "authorship_score": 82,
+      "profile_strength": 75,
+      "profile_strength_label": "strong",
+      "rewrite_count": 0,
+      "trigger_match": {
+        "base_rating": 3.39,
+        "praise_hits": [],
+        "complaint_hits": [],
+        "flavour_hits": [
+          "delicious"
+        ],
+        "praise_bonus": 0.0,
+        "complaint_penalty": 0.0,
+        "flavour_bonus": 0.15,
+        "adjusted_rating": 2.96,
+        "predicted_star": 2.96,
+        "explanation": "Base: 3.4\u2605 +0.1 flavour match (delicious) = 3.0\u2605 \u2192 2.96\u2605"
+      }
+    },
+    {
+      "user_id": "FlXBpK_YZxLo27jcMdII1w",
+      "business_id": "oY-w5FbUv8YPA-vJmkdW1Q",
+      "predicted_rating": 4,
+      "actual_rating": 4.0,
+      "rating_error": 0.0,
+      "review_text": "I stopped by Curly's Comfort Food last weekend and had a pretty great experience. Ordered the famous cheesesteak sandwich and it was definitely on point - the steak was cooked to perfection and the cheese was melted just right. The atmosphere was super cozy, felt like a little slice of home. Service was awesome too, our server was really friendly and attentive. Only thing that kept it from being 5 stars was the wait, took a bit to get our food but it was worth it. Overall, I'd definitely go back and recommend to friends.",
+      "actual_text": "The cheesesteaks here are the truth! I'm on a Facebook page about cheesesteaks and people time and again rave about Curly's so I knew we had to go. The cheesesteaks certainly didn't disappoint. They are gigantic and on a delicious seeded roll that maintains its structural integrity. The meat was perfect and I really enjoyed their cheese sauce. Top three cheesesteak experience for me. \nThe wings were good but not my favorite. We got the Buffalo garlic parm sauce and thought it could probably have more flavor. The fries weren't our favorites. They serve seasoned fries that we just didn't care for but I'm sure lots of people love them. I definitely want to come back for some of that macaroni and cheese that looks amazing. \nThe only thing besides the fries I wasn't crazy about was the 3% convenience fee to use a credit card. No other place does that for food that I know of. I can't imagine it makes a huge different in their bottom line, but it certainly leaves a bad taste for the customer.",
+      "authorship_score": 82,
+      "profile_strength": 65,
+      "profile_strength_label": "moderate",
+      "rewrite_count": 0,
+      "trigger_match": {
+        "base_rating": 3.58,
+        "praise_hits": [],
+        "complaint_hits": [
+          "long wait times"
+        ],
+        "flavour_hits": [
+          "flavorful",
+          "cozy"
+        ],
+        "praise_bonus": 0.0,
+        "complaint_penalty": 0.25,
+        "flavour_bonus": 0.3,
+        "adjusted_rating": 4.59,
+        "predicted_star": 4.59,
+        "explanation": "Base: 3.6\u2605 +0.3 flavour match (flavorful, cozy) -0.2 complaint match (long wait times) = 4.6\u2605 \u2192 4.59\u2605"
+      }
+    },
+    {
+      "user_id": "EP8o8JnQSI0WEkeodwA8lA",
+      "business_id": "3wogQmKw729tKKWaVbZvbg",
+      "predicted_rating": 1,
+      "actual_rating": 1.0,
+      "rating_error": 0.0,
+      "review_text": "I stopped by World Famous N'awlins Cafe & Spice Emporium expecting a taste of N'awlins. No such luck. The wait was insane - we waited for like 20 minutes just to be seated. And our waitress seemed really overwhelmed, which I get, but a little attitude wouldn't kill her. I ordered the gumbo, and it was just okay. I mean, I've had better gumbo at other places. The shrimp was overcooked, and it was just a little too spicy. The prices were mid-range, but I really didn't feel like I got my money's worth. The place had a great vibe, I'll give 'em that. Exciting decor, but that's about it. Unreal that a place with such a great concept can fall so flat. Definitely won't be back.",
+      "actual_text": "If you have to self aggrandize yourself, then you really know you are in trouble. \nAn example that comes to mind is when we were driving through South Carolina and stopped at a place that self titled themselves as having the best breakfast in the country. What we ended up getting was greenish steak and eggs and a crab omelet that sent the Girly into vomit mode. N'awlins Cafe & Spic is another example.\nThis is a place that should NEVER, ever serve food to people...ever. \nIf you want gumbo that would make a geriatric go, \"Hey! Where's the flavor?\" then this might actually be a place you might want. \nAnd as someone else mentioned, they don't clean their shrimp too well.\nAll in all, you can pay less and get more and better all over the place. Keep walking.",
+      "authorship_score": 82,
+      "profile_strength": 75,
+      "profile_strength_label": "strong",
+      "rewrite_count": 0,
+      "trigger_match": {
+        "base_rating": 2.87,
+        "praise_hits": [],
+        "complaint_hits": [
+          "wait times"
+        ],
+        "flavour_hits": [
+          "creamy",
+          "garlic"
+        ],
+        "praise_bonus": 0.0,
+        "complaint_penalty": 0.25,
+        "flavour_bonus": 0.3,
+        "adjusted_rating": 1.76,
+        "predicted_star": 1.7599999999999998,
+        "explanation": "Base: 2.9\u2605 +0.3 flavour match (creamy, garlic) -0.2 complaint match (wait times) = 1.8\u2605 \u2192 1.7599999999999998\u2605"
+      }
+    },
+    {
+      "user_id": "iT1AA74QFn_a0Xq9-ggSGA",
+      "business_id": "_NfEP6cuFSz7bd-7OtiJ-Q",
+      "predicted_rating": 4,
+      "actual_rating": 4.0,
+      "rating_error": 0.0,
+      "review_text": "I stopped by Dots Diner, a classic spot in the heart of New Orleans, and I'm glad I did. Their brisket, which I ordered for breakfast - yeah, you read that right - was pretty amazing, if I do say so myself. The service was great, friendly folks who didn't mind my odd breakfast choice. Now, I know what you're thinking, \"brisket for breakfast?\" and trust me, it was a game-changer. The food overall was good, reasonably priced, and the atmosphere was trendy, but not too trendy. Definitely a great spot for a casual breakfast or brunch. So, if you're in the area, give it a shot.",
+      "actual_text": "My quest to eat at every Dot's location is now complete. If you're looking for a classic diner with good, reasonably priced, food find yourself any of Dot's five locations.\n\nIn case you were not aware, I am a ridiculous human being. A while back one of my co-workers suggested we get breakfast for lunch and that Dot's is where we should go. We went, and it was great. That is when we decided we should visit every location and see which is the best. \n\nThis location is probably the largest Dot's and it is located across the street from Ochsner's main campus. It also appears to be the newest location. So it's new and across from one of the biggest hospitals in the area. That must mean it is jam packed right? Sort of.\n\nWe ended up here one day right around 11:00 a.m. While it was busy, it was not packed. As we finished our meal it started getting more crowded and had a wait. Moral of the story? Get there at 11:00.\n\nService was friendly, but not as personal as some other locations. I attributed this to how much larger and busier this location was. The food was classic breakfast fare. The eggs were cooked perfectly as were the meats. Dot's definitely knows how to make a solid breakfast.\n\nSo where does this rate for me in comparison to the other four Dot's? I'd say this is #3.",
+      "authorship_score": 82,
+      "profile_strength": 75,
+      "profile_strength_label": "strong",
+      "rewrite_count": 0,
+      "trigger_match": {
+        "base_rating": 3.86,
+        "praise_hits": [
+          "brisket"
+        ],
+        "complaint_hits": [],
+        "flavour_hits": [
+          "good"
+        ],
+        "praise_bonus": 0.2,
+        "complaint_penalty": 0.0,
+        "flavour_bonus": 0.15,
+        "adjusted_rating": 4.54,
+        "predicted_star": 4.54,
+        "explanation": "Base: 3.9\u2605 +0.2 praise match (brisket) +0.1 flavour match (good) = 4.5\u2605 \u2192 4.54\u2605"
+      }
+    },
+    {
+      "user_id": "LkXNQQaIc5yrKu9Ap87RrA",
+      "business_id": "zQ4yPiqoyMtoohGpEip7zw",
+      "predicted_rating": 5,
+      "actual_rating": 3.0,
+      "rating_error": 2.0,
+      "review_text": "Stopped by The Growler Guys recently. Unreal. Great beers, pretty much what I expected. Ordered a pie - their wood-fired oven is no joke. Crust was fresh, toppings tasty. Some of the best wings I've had - tender, juicy. Friendly service, no such luck with loud atmosphere, but I can handle it. Still, a new favorite spot. Highly recommend, definitely back. Best brewery experience in Reno, hands down.",
+      "actual_text": "I went in on a Saturday .   I was pretty hungry and needed something quick. Turned out that wasn't gonna be possible.  A couple of guys were ahead of me and as tap rooms are a selection overload, it took a bit to get them served.  \n\nI ordered up the Beer and Brat special and went to sit down.   The beer selection for the special was limited to germans so I got a tasty kolsch.  It went down quickly and I ordered up a flight of the more interesting sours and went back to my socially distanced table for one.  \n\nThe brat came out switftly and it went down just as quick.  I wasn't too fond of the bun...it basically disintegrated in my hand.  The tots were good and hit the spot.\n\nThe price point as shown in my receipt was a bit stiff for me.   And the space is pretty small.\n\nI will keep an eye on their selection and maybe just grab some of the beers to go next time.  And then hit them up post covid for a regular and real experience.",
+      "authorship_score": 82,
+      "profile_strength": 85,
+      "profile_strength_label": "strong",
+      "rewrite_count": 1,
+      "trigger_match": {
+        "base_rating": 4.09,
+        "praise_hits": [],
+        "complaint_hits": [],
+        "flavour_hits": [
+          "tasty",
+          "original"
+        ],
+        "praise_bonus": 0.0,
+        "complaint_penalty": 0.0,
+        "flavour_bonus": 0.3,
+        "adjusted_rating": 5.0,
+        "predicted_star": 5.0,
+        "explanation": "Base: 4.1\u2605 +0.3 flavour match (tasty, original) = 5.0\u2605 \u2192 5.0\u2605"
+      }
+    },
+    {
+      "user_id": "DJp-RvWsIyX9z-8SN2N7Ag",
+      "business_id": "V6Om7YZhlRQRU7WfuxHq8Q",
+      "predicted_rating": 4,
+      "actual_rating": 2.0,
+      "rating_error": 2.0,
+      "review_text": "I stopped by Beck's Cajun Cafe on a pretty busy Saturday afternoon, and I was excited to try some authentic Cajun cuisine. Meh, the vibe was a bit chaotic, but hey, that's to be expected from a place that's always packed. The service was great, our server was super friendly and knowledgeable about the menu. I started with a sample of their famous gumbo, which was rich and flavorful, with just the right amount of spice. I had the andouille Po Boy, which was delicious, the andouille sausage was cooked perfectly and the bread was fresh-tasting. The prices were really reasonable, most dishes were under $15, which is a great deal for the portion size. I'd say it's definitely worth trying, especially if you're a fan of Cajun food. Overall, I'd give Beck's Cajun Cafe 4 stars, it's a solid spot for a casual, delicious meal.",
+      "actual_text": "The fried mac and cheese was great in theory and pretty decent in execution, but for some reason I detected an odd sour flavor in mine. I hope this was because they use sour cream or some sourish kind of cheese, and not because the milk they used had gone bad. \n\nThe muffuletta was okay, but nowhere near the same ballpark as the ones I had in New Orleans. Maybe the Trainwreck should have been the way to go.",
+      "authorship_score": 82,
+      "profile_strength": 85,
+      "profile_strength_label": "strong",
+      "rewrite_count": 0,
+      "trigger_match": {
+        "base_rating": 3.53,
+        "praise_hits": [
+          "fresh-tasting",
+          "delicious"
+        ],
+        "complaint_hits": [],
+        "flavour_hits": [
+          "fresh-tasting",
+          "delicious"
+        ],
+        "praise_bonus": 0.4,
+        "complaint_penalty": 0.0,
+        "flavour_bonus": 0.3,
+        "adjusted_rating": 4.79,
+        "predicted_star": 4.79,
+        "explanation": "Base: 3.5\u2605 +0.4 praise match (fresh-tasting, delicious) +0.3 flavour match (fresh-tasting, delicious) = 4.8\u2605 \u2192 4.79\u2605"
+      }
+    },
+    {
+      "user_id": "WVqS85AUR20gbSFkuKH8Ig",
+      "business_id": "PzhPMkaNYiKDTHoTG0r8rw",
+      "predicted_rating": 4,
+      "actual_rating": 4.0,
+      "rating_error": 0.0,
+      "review_text": "Stopped by Pho Cam Ly for lunch yesterday. Unreal. Got the beef pho, and it was absolutely delicious! Rich, flavorful broth, nice char on the beef. Spring rolls on the side, very fresh. Service was great, friendly staff. Parking was a breeze, which is a plus. Some might say it's a bit early to close, but I think it's consistent with other local spots. Overall, a very good experience. Favorite new spot for Vietnamese food. Definitely recommend. Rick",
+      "actual_text": "FINALLY found pho Cam Ly open again, everything was as good as ever.\n\nNo real explanation for the unexplained closure(s).\n\nFood & service are GREAT, parking may be very difficult.\n\nStill a FAVORITE !\n\nRick",
+      "authorship_score": 82,
+      "profile_strength": 85,
+      "profile_strength_label": "strong",
+      "rewrite_count": 0,
+      "trigger_match": {
+        "base_rating": 3.72,
+        "praise_hits": [
+          "cleanliness",
+          "reliable service"
+        ],
+        "complaint_hits": [
+          "unexplained closures"
+        ],
+        "flavour_hits": [
+          "good",
+          "reliable"
+        ],
+        "praise_bonus": 0.4,
+        "complaint_penalty": 0.25,
+        "flavour_bonus": 0.3,
+        "adjusted_rating": 4.97,
+        "predicted_star": 4.97,
+        "explanation": "Base: 3.7\u2605 +0.4 praise match (cleanliness, reliable service) +0.3 flavour match (good, reliable) -0.2 complaint match (unexplained closures) = 5.0\u2605 \u2192 4.97\u2605"
+      }
+    },
+    {
+      "user_id": "1p8Pu1pvAsuNtuZDtn2OkQ",
+      "business_id": "gqMRM12j5mder76t3bPxJw",
+      "predicted_rating": 4,
+      "actual_rating": 5.0,
+      "rating_error": -1.0,
+      "review_text": "I'm going to try out Siam Cafe, a spot I've been meaning to check out for a while now. As I walked in, I was immediately hit with the aroma of something great - and I think it was the curry. The place has a nice little setup, not too crowded, and the staff seemed friendly, which is always a plus. I ordered a few dishes, including their famous Thai chicken wings, and I've got to say, they were damn good. The service was pretty prompt, and our server was knowledgeable about the menu, which I appreciate. The atmosphere's a bit on the casual side, but that's okay by me - it's a great spot to grab a bite with people. One thing that did throw me off was the lack of garlic flavor in some of the dishes - I mean, I love garlic, and it's a bit of a deal-breaker if it's not there. That being said, the food was still really good, and I'd definitely go back. If you're looking for a solid Thai spot in Nashville, Siam Cafe's definitely worth a shot - just don't expect me to be bringing my garlic-loving self to the kitchen anytime soon. Oh, and tip: they are open during Covid-19, and the employees are wearing masks, which is great to see. Overall, I'd give Siam Cafe 4 stars - great food, good service, and a nice spot to hang out.",
+      "actual_text": "Covid 19 update: they are open for takeout. They have been busy enough that they haven't been able to answer the phone sometimes which is cool",
+      "authorship_score": 82,
+      "profile_strength": 75,
+      "profile_strength_label": "strong",
+      "rewrite_count": 0,
+      "trigger_match": {
+        "base_rating": 3.8,
+        "praise_hits": [
+          "coffee"
+        ],
+        "complaint_hits": [
+          "not particularly great"
+        ],
+        "flavour_hits": [
+          "garlic"
+        ],
+        "praise_bonus": 0.2,
+        "complaint_penalty": 0.25,
+        "flavour_bonus": 0.15,
+        "adjusted_rating": 4.59,
+        "predicted_star": 4.590000000000001,
+        "explanation": "Base: 3.8\u2605 +0.2 praise match (coffee) +0.1 flavour match (garlic) -0.2 complaint match (not particularly great) = 4.6\u2605 \u2192 4.590000000000001\u2605"
+      }
+    },
+    {
+      "user_id": "hVPyu7QWaSQgOlz0rppmkg",
+      "business_id": "MMRRS6YhVRx_iN5-JhMRYg",
+      "predicted_rating": 3,
+      "actual_rating": 4.0,
+      "rating_error": -1.0,
+      "review_text": "So here's the scene: I'm back at Han Dynasty. Stopped by for lunch, craving some heat. The Dan Dan Noodles were on point, I guess. Great flavor, but not crazy spicy. These wontons in chili oil, though - unreal. The service was decent, our server was helpful. Some might say it's a bit pricey, but I think it's okay. Atmosphere's pretty chill, I like the vibe. Not the best value, but I came back, so that's saying something. Definitely a solid option for Szechuan food. Honestly, I'm torn - it's not perfect, but I keep coming back. No such luck with a drink, though - no beer for me. Overall, a great experience, but not amazing.",
+      "actual_text": "Boy did I miss the ol' Han Dynasty... once he left Exton to his parents it just wasn't the same. But here its hitting on all cylinders. Ordered up a mix of lamb cumin, pork belly, dry pot beef, etc. Nicely portioned and priced lunch dishes (think larger than an app, but smaller than a dinner plate). \nPS - Bartender did great on the caprahinna's after we taught him the ropes. \n\nif you're a fan of GOOD Chinese, put HD on the list. Damn I wish it were closer...",
+      "authorship_score": 82,
+      "profile_strength": 65,
+      "profile_strength_label": "moderate",
+      "rewrite_count": 0,
+      "trigger_match": {
+        "base_rating": 3.65,
+        "praise_hits": [],
+        "complaint_hits": [
+          "standard sports bar fare"
+        ],
+        "flavour_hits": [],
+        "praise_bonus": 0.0,
+        "complaint_penalty": 0.25,
+        "flavour_bonus": 0.0,
+        "adjusted_rating": 3.82,
+        "predicted_star": 3.8200000000000003,
+        "explanation": "Base: 3.6\u2605 -0.2 complaint match (standard sports bar fare) = 3.8\u2605 \u2192 3.8200000000000003\u2605"
+      }
+    },
+    {
+      "user_id": "N87niUpAiDF_N66S5fI0gQ",
+      "business_id": "_JXfCdMu1TFblbhJ5KT7fw",
+      "predicted_rating": 4,
+      "actual_rating": 4.0,
+      "rating_error": 0.0,
+      "review_text": "I stopped by Basil Spice Thai Cuisine last weekend, and I'm glad I did. Unreal atmosphere - it's like stepping into a dark, cozy cave, which, surprisingly, totally works for a Thai restaurant. Ordered the pad Thai and spring rolls to start. The noodles were cooked just right, not too mushy or dry, and the flavors were on point - spicy, sweet, and sour all at once. The spring rolls were a little hit or miss; the peanut sauce was amazing, but the rolls themselves could've been a bit crisper. No such luck with the drunken noodles, though - they were definitely a highlight, with huge portions and bold flavors. Service was prompt and friendly, our server was really knowledgeable about the menu, which is a definite plus. Family-owned and operated, you can tell they put their heart into it. Some might say it's a bit pricey for what you get, but I think it's worth it. Overall, a great experience, and I'd definitely suggest it to fellow Thai food enthusiasts. Worth a visit, absolutely.",
+      "actual_text": "Basil Spice really takes on the presentation game. Especially in comparison to 99% of the other Thai restaurants in the area. So you get a wonderful presentation of delicious Thai food, set to as spicy as you would like it to be, and have a little room for the sticky rice dessert, which is simple, yet indulgent. I like the pad thai, of course, but definitely try the pad see iw. Noms.\n\nIf you like spicy, they can certainly make it spicy for you. Try it, if you can!\n\nIf you want huge portions, go to a buffet. Sometimes the \"Wow\" factor in American dining has people so wound up in huge portion sizes that they forget that food is something more than just filler for your stomach. It's about flavor and culture.",
+      "authorship_score": 82,
+      "profile_strength": 72,
+      "profile_strength_label": "moderate",
+      "rewrite_count": 0,
+      "trigger_match": {
+        "base_rating": 3.99,
+        "praise_hits": [
+          "great food"
+        ],
+        "complaint_hits": [],
+        "flavour_hits": [
+          "amazing",
+          "great",
+          "wonderful"
+        ],
+        "praise_bonus": 0.2,
+        "complaint_penalty": 0.0,
+        "flavour_bonus": 0.4,
+        "adjusted_rating": 4.32,
+        "predicted_star": 4.32,
+        "explanation": "Base: 4.0\u2605 +0.2 praise match (great food) +0.4 flavour match (amazing, great, wonderful) = 4.3\u2605 \u2192 4.32\u2605"
+      }
+    },
+    {
+      "user_id": "29K-usmZfVDeIaQ85EG54A",
+      "business_id": "Q-prSTdggNlxAEFV88BZOw",
+      "predicted_rating": 4,
+      "actual_rating": 4.0,
+      "rating_error": 0.0,
+      "review_text": "I stopped by Tria Cafe on a lovely Sunday afternoon, and I must say, their Sunday school offers are definitely a great draw. For just $10, you get a happy hour vibe without the rowdy crowd, and that's a win in my book. The atmosphere is pretty great - intimate, yet neighborhoody, with a nice vibe that's perfect for a casual gathering. I walked in and was immediately greeted by friendly staff, which set the tone for a pleasant experience. Now, onto the food - I went for the bruschetta, and oh boy, it did not disappoint. The combination of fresh tomatoes, basil, and mozzarella on toasted bread was absolutely delightful. I also tried the mixed green salad, which was a bit on the pricey side, but the quality was top-notch. Service was attentive, if a bit slow at times, but our server was apologetic and made sure we had everything we needed. All in all, Tria Cafe is a great spot for a Sunday lunch or a casual wine-and-cheese evening. While it's not a vegetarian paradise, they do have some great options, and the prices are reasonable. I'd definitely recommend it to friends and might even come back for more of that awesome bruschetta.",
+      "actual_text": "Tria Cafe is definitely another great Sunday lunch spot, especially with their Sunday school offers (i.e. day time happy hour). Service may be spotty, so be prepared to ask for the same thing for a few times\n\nMust get: bruschetta (mushroom and goat cheese), mixed green salad, sunday Cheese and wine pairing\nMeh: white bean spread, crab stuffed peppers, chocolate torte, bread pudding\nMissed: sandwiches\n\nI really loved our time at Tria Cafe, and with some minor gripes, I think everyone should visit this establishment at least one Sunday a year. For my yelp followers, I dislike brunch with its emphasis on different plays on egg and charging an exorbitant amount of money on it. Tria, at least on Sundays, only open at 12pm, making it easier to visit a popular brunch spot without fighting the usual crowd. My favorite dishes at Tria had to be the mushroom bruschetta and the cheese of the day (goat cheese for our visit). I think the blend of the mushroom and cheese worked so well for a toughened, flavored bruschetta and the cheese was served at a very generous portion. As for the other dishes, the crab stuffed peppers looked so great on paper, but was a definite hard pass as it just left me mouth feels: cold and wet - not at all what I  had imagined or liked.\n\nThe mixed green salad was probably my favorite 'large' dish option that was also easiest on the wallet. The pine nuts and dried figs definitely made each bite a true delight, just wished there was more greens.\n\nAs for the dessert, we had ordered the dessert very early on due to an earlier departure, but that request was completely forgotten and we had almost missed our after-lunch appointment. Also, the taste was below expectation, as the bread pudding tasted like a pre-made block of pound cake with unripe banana serving as garnish.\n\nOverall, if you come here for the Sunday School Wine/cheese tasting, it is great! \n\nFood: 4 stars\nPrice: 3-4 stars\nService: 3 stars\nAmbiance: 3 stars",
+      "authorship_score": 82,
+      "profile_strength": 72,
+      "profile_strength_label": "moderate",
+      "rewrite_count": 0,
+      "trigger_match": {
+        "base_rating": 3.11,
+        "praise_hits": [
+          "buffet-style",
+          "vegetarian"
+        ],
+        "complaint_hits": [],
+        "flavour_hits": [
+          "paneer saag"
+        ],
+        "praise_bonus": 0.4,
+        "complaint_penalty": 0.0,
+        "flavour_bonus": 0.15,
+        "adjusted_rating": 4.63,
+        "predicted_star": 4.630000000000001,
+        "explanation": "Base: 3.1\u2605 +0.4 praise match (buffet-style, vegetarian) +0.1 flavour match (paneer saag) = 4.6\u2605 \u2192 4.630000000000001\u2605"
+      }
+    },
+    {
+      "user_id": "Kj-u8Yq1d3mLKitWsDAxpg",
+      "business_id": "DRr5xdfHtqgWfhmdTU1B8Q",
+      "predicted_rating": 3,
+      "actual_rating": 3.0,
+      "rating_error": 0.0,
+      "review_text": "I stopped by London Grill on a sunny Sunday morning, and I must say, the atmosphere was quite inviting. The restaurant's quaint setting, complete with a dog-friendly vibe, immediately caught my attention. The extensive drink menu, which I didn't get to try, seemed impressive, but I was more focused on the grub. The service was friendly, with our server, Alex, being particularly attentive and accommodating. I appreciated the effort he put into explaining the daily specials and making recommendations. However, I did notice that the seating area felt a bit cramped, especially considering the restaurant's popularity. Now, onto the food \u2013 the main event. I ordered the Huevos Rancheros, which I was excited to try, given the rave reviews. The dish arrived promptly, and I was pleased to see that the eggs were cooked to perfection. The flavors were delicious, with a nice balance of spicy and savory. My hubby's lemon ricotta pancakes were also a hit, with him declaring them \"amazing.\" I did try a bite, and I can see why he was raving about them \u2013 they were definitely tasty. That being said, I did have some issues with the portion size, which felt a bit small for the price. Additionally, the mussels and frites, which I was looking forward to trying, were just okay. I think they could have benefited from a bit more seasoning. All in all, London Grill is a solid choice for a brunch spot, with a great atmosphere and friendly service. While the food was delicious, I think it's a bit overpriced, and the portions could be more generous. Definitely a place I'd consider visiting again, but maybe not for a big meal. In comparing London Grill to other restaurants in the area, I'd say it's on par with some of the more established spots, but it's not a standout. If you're in the mood for some amazing Italian-inspired dishes or a great breakfast, it's worth a try. Just be aware that you might leave feeling a bit peckish.",
+      "actual_text": "We entered through the long bar and cafe, before entering you will pass through closely knit tables and planters on the sidewalk and a very narrow walk through. The bar was empty when we went for brunch, with plenty of bar stools and high topped tables lining the window.\n\nWe opted to sit in one of the dining rooms, which was more like an enclosed sun room and we welcomed the warmth shining in on us. Both dining rooms were filling up quickly and by the time we left the cafe and bar was doing a nice business.\n\nMichael ordered a coke and I thought I would be cute and help myself to their amazing bloody mary bar! Be very careful of that London mix! Way too much London mix and not enough tomato juice and ye gads, for every sip I took I drank one half glass of water!\n\nI was torn between the brisket hash with poached eggs or the fish and chips, but was quickly informed they were out of the hash. We started with the soup of the day which was a cream of potato soup, which I knew was either burned or old or both when I first saw it, as it was not a creamy white but a very distinct tan in color. I had one bite, hubs thought it was okay and decided to finish it.\n\nA fresh fruit salad is served complimentary to each table which was a pleasant surprise. Michael ordered the eggs benedict which can also be ordered eggs Florentine. The eggs were perfectly cooked and the ham was nice and thick with a beautifully made hollandaise sauce. He had asked for them to add onions and peppers to his home fries and they were happy to oblige. He was thrilled with his order and raved over the home fries in particular. As a side he ordered bacon and their bacon is not wonderful, it was thin and very soft.\n\nI loved their hand cut fries and you get enough to feed an army! Three pieces of fish topped my huge plate of fries, the breading was way too thick and not cooked on the inside, even though the fish was cooked perfectly throughout. I ate half of one piece and decided to concentrate on the fries, bringing the fish home to reheat in the oven until the breading was cooked. I like a good crunchy fish and this was certainly not the best I've ever had.\n\nThere is one restroom at the top of a very steep and very dirty flight of stairs, I don't think the carpets had been swept in quite some time, the restroom was clean.\n\nI must compliment the staff, I have not witnessed such great teamwork in a long time. It did not matter if it was your section or your table, whoever was in the area cleared your plates as needed, refilled drinks, brought out food, the service was friendly and spot on!",
+      "authorship_score": 82,
+      "profile_strength": 67,
+      "profile_strength_label": "moderate",
+      "rewrite_count": 0,
+      "trigger_match": {
+        "base_rating": 3.28,
+        "praise_hits": [
+          "atmosphere",
+          "service"
+        ],
+        "complaint_hits": [],
+        "flavour_hits": [],
+        "praise_bonus": 0.4,
+        "complaint_penalty": 0.0,
+        "flavour_bonus": 0.0,
+        "adjusted_rating": 3.37,
+        "predicted_star": 3.3699999999999997,
+        "explanation": "Base: 3.3\u2605 +0.4 praise match (atmosphere, service) = 3.4\u2605 \u2192 3.3699999999999997\u2605"
+      }
+    },
+    {
+      "user_id": "ir3TO7sVulMac_ke6IdBAg",
+      "business_id": "tMkwHmWFUEXrC9ZduonpTg",
+      "predicted_rating": 4,
+      "actual_rating": 5.0,
+      "rating_error": -1.0,
+      "review_text": "I'm always on the lookout for exceptional dining experiences in Nashville. The Green Pheasant definitely delivers. Located in a great part of town, this Japanese restaurant stands out. Getting in was easy, even on a Friday evening. The sushi was absolutely amazing - I highly recommend the spicy tuna roll. Service was top-notch, friendly and attentive, which added to the great atmosphere. The environment was classy and modern, perfect for a night out. Prices were reasonable, especially considering the quality of food. Overall, I'd definitely recommend The Green Pheasant. Great food, great service, and a great experience. Unreal value for the price.",
+      "actual_text": "One of my favorite restaurants in Nashville. Located across the street from Ascend, The Green Pheasant has a mix of classiness with a good modern vibe. A lot of Japanese inspired dishes and entrees that will make you head spin. Service was excellent!! \n\nLooking forward to many more visits",
+      "authorship_score": 82,
+      "profile_strength": 72,
+      "profile_strength_label": "moderate",
+      "rewrite_count": 0,
+      "trigger_match": {
+        "base_rating": 3.46,
+        "praise_hits": [
+          "good product"
+        ],
+        "complaint_hits": [
+          "inexpensive but not good",
+          "small restaurant"
+        ],
+        "flavour_hits": [
+          "spicy",
+          "great",
+          "good"
+        ],
+        "praise_bonus": 0.2,
+        "complaint_penalty": 0.5,
+        "flavour_bonus": 0.4,
+        "adjusted_rating": 4.18,
+        "predicted_star": 4.180000000000001,
+        "explanation": "Base: 3.5\u2605 +0.2 praise match (good product) +0.4 flavour match (spicy, great, good) -0.5 complaint match (inexpensive but not good, small restaurant) = 4.2\u2605 \u2192 4.180000000000001\u2605"
+      }
+    },
+    {
+      "user_id": "uUcNCwf86aea7F9AGFBJNQ",
+      "business_id": "C_EtrXTygRX5RTUOKtO6Dg",
+      "predicted_rating": 2,
+      "actual_rating": 2.0,
+      "rating_error": 0.0,
+      "review_text": "Stopped by Copabanana last night. Not impressed. The burgers were ok, I think. Some flavor, but overpriced, if you ask. Service was too slow for me. Nothing special about the atmosphere. Coffee was good, I guess. But for the price, I expect more. Decent margaritas, I'll give them that.",
+      "actual_text": "No. The bison burger was no good. First, charging for all different condiments doesn't make gourmet. Online prices were different from what I was told over the phone. Whoever picked up the picked up the phone was not professional.\nBison is very lean, so can be dry, but \"medium\" became a hard rock with no flavor. I would have added some mirim to tenderize. Chipotle sauce? Spicy and sour is not chipotle. 5 pieces of onion rings =$2. Unoriginal, badly cooked. Not coming back.",
+      "authorship_score": 82,
+      "profile_strength": 62,
+      "profile_strength_label": "moderate",
+      "rewrite_count": 0,
+      "trigger_match": {
+        "base_rating": 2.43,
+        "praise_hits": [],
+        "complaint_hits": [],
+        "flavour_hits": [
+          "spicy",
+          "crispy"
+        ],
+        "praise_bonus": 0.0,
+        "complaint_penalty": 0.0,
+        "flavour_bonus": 0.3,
+        "adjusted_rating": 2.18,
+        "predicted_star": 2.18,
+        "explanation": "Base: 2.4\u2605 +0.3 flavour match (spicy, crispy) = 2.2\u2605 \u2192 2.18\u2605"
+      }
+    },
+    {
+      "user_id": "m8q0X8bt7UAlawSjbG0c7Q",
+      "business_id": "caYHsI0eWE0UyEcSm04uMQ",
+      "predicted_rating": 4,
+      "actual_rating": 2.0,
+      "rating_error": 2.0,
+      "review_text": "Stopped by Simply Delicious yesterday. Good sandwich, I thought. Clean store, plenty of choices. But, lot of parking hassle. No such luck with the Cuban, though. Great prices, friendly staff, though. Love their deli. Will definitely comeback.",
+      "actual_text": "Cash only.  $10 for a heap pile of food.  This place is about quantity and not quality. \nMeatloaf is mostly bread.",
+      "authorship_score": 82,
+      "profile_strength": 72,
+      "profile_strength_label": "moderate",
+      "rewrite_count": 0,
+      "trigger_match": {
+        "base_rating": 2.66,
+        "praise_hits": [
+          "good burger"
+        ],
+        "complaint_hits": [
+          "attitude"
+        ],
+        "flavour_hits": [
+          "good",
+          "tasty"
+        ],
+        "praise_bonus": 0.2,
+        "complaint_penalty": 0.25,
+        "flavour_bonus": 0.3,
+        "adjusted_rating": 4.13,
+        "predicted_star": 4.13,
+        "explanation": "Base: 2.7\u2605 +0.2 praise match (good burger) +0.3 flavour match (good, tasty) -0.2 complaint match (attitude) = 4.1\u2605 \u2192 4.13\u2605"
+      }
+    },
+    {
+      "user_id": "dIRTUvNn9HSG7SlCB1CdKw",
+      "business_id": "5Z-z5-ZYmrJ8RW_oOpp9lQ",
+      "predicted_rating": 3,
+      "actual_rating": 2.0,
+      "rating_error": 1.0,
+      "review_text": "Stopped by Oaks Italian Deli for lunch. Ordered their famous pizza, sounded great. Crunchy crust, but toppings were okay, not superb. Service was friendly, can't complain. Value for money, kind of. Compared to Devis, Oaks needs improvement. Fresh ingredients, I think, but execution lacking. Overall, decent experience, not awesome.",
+      "actual_text": "Have been coming here since it open. The pasta and pizza has lost its way and now taste more like Store supermarket pizza and pasta than what I am used to. We ordered several pasta dishes and 2 pizza slices.  All of us which is a rarity were disappointed. The pesto pasta had pesto that look like it came out of a can and tasted as such. \nThis is the second time. Can never come back again.",
+      "authorship_score": 82,
+      "profile_strength": 72,
+      "profile_strength_label": "moderate",
+      "rewrite_count": 0,
+      "trigger_match": {
+        "base_rating": 2.9,
+        "praise_hits": [
+          "freshly made",
+          "excellent service",
+          "superb"
+        ],
+        "complaint_hits": [
+          "drenched in oil",
+          "stale"
+        ],
+        "flavour_hits": [
+          "freshly made",
+          "spicy"
+        ],
+        "praise_bonus": 0.6,
+        "complaint_penalty": 0.5,
+        "flavour_bonus": 0.3,
+        "adjusted_rating": 3.32,
+        "predicted_star": 3.32,
+        "explanation": "Base: 2.9\u2605 +0.6 praise match (freshly made, excellent service, superb) +0.3 flavour match (freshly made, spicy) -0.5 complaint match (drenched in oil, stale) = 3.3\u2605 \u2192 3.32\u2605"
+      }
+    },
+    {
+      "user_id": "rwvss28DqeYfn1B_SAY2pg",
+      "business_id": "NsbA31abl8CvYFs6P6kpyw",
+      "predicted_rating": 1,
+      "actual_rating": 1.0,
+      "rating_error": 0.0,
+      "review_text": "Stopped by Popeyes in Norristown. Unreal. Expected stellar chicken, got greasy mess. Service was super slow, ten minutes waited just to order. No such luck. Food was not fresh, kind of stale. Not the best experience, I think. Definitely won't come back here. Average price, but not worth it. Atmosphere was little to dirty. One star, and that's being generous.",
+      "actual_text": "They didn't get nice to the chicken or the chicken sandwich for that matter.  Chick-fil-a did and that is why you should go down the street and get good food done quickly.  Two chickens sandwiches ordered.  Chicken was greasy and the bun was way too toasted.  Fries are battered therefore terrible.  Coleslaw was half full and swimming in dressing.  No reason honest here when you have Burger King across the street. McDonald's and the king of all fast food CHICK-FIL-A right down the street.  Not sure what all the hub bub is about?  People really settle for average food and claiming to be amazing.  Hopefully they close up shop soon and get a mom and pop eatery on that space.",
+      "authorship_score": 82,
+      "profile_strength": 72,
+      "profile_strength_label": "moderate",
+      "rewrite_count": 0,
+      "trigger_match": {
+        "base_rating": 2.65,
+        "praise_hits": [
+          "friendly staff"
+        ],
+        "complaint_hits": [
+          "bad service",
+          "slow",
+          "terrible"
+        ],
+        "flavour_hits": [
+          "great",
+          "good"
+        ],
+        "praise_bonus": 0.2,
+        "complaint_penalty": 0.75,
+        "flavour_bonus": 0.3,
+        "adjusted_rating": 1.17,
+        "predicted_star": 1.17,
+        "explanation": "Base: 2.6\u2605 +0.2 praise match (friendly staff) +0.3 flavour match (great, good) -0.8 complaint match (bad service, slow, terrible) = 1.2\u2605 \u2192 1.17\u2605"
+      }
+    },
+    {
+      "user_id": "3Zl3RokY8eyRJQbbQmuOuA",
+      "business_id": "1UNorskttXSWuEcgzKzXcA",
+      "predicted_rating": 3,
+      "actual_rating": 1.0,
+      "rating_error": 2.0,
+      "review_text": "I stopped by Xochitl on a whim, because I'd heard great things about their margaritas. Unreal. The vibe is pretty cool, with candles on each table and outside seating that's perfect for a night out. I love a good ambiance, and they've got it down. The guacamole is definitely a highlight - fresh, delicious, and made to order. I had the Huarache de Hongos, which was awesome, but not as great as I'd hoped, considering the price. The flavors are layered, but it's not like, wow, you know? Service was on point, though - our server was super friendly and attentive. No such luck with the value, though. With prices like these, you'd think it's a 5-star experience. Not quite. Overall, Xochitl is a solid spot for a night out, but it's not without its flaws. Pretty good, but not perfect. I'd go back for the margaritas, though.",
+      "actual_text": "Offensive.  Flavorless pre-made guacamole in a tiny bowl.  i've been robbed less at overpriced restaurants in manhattan.  what really got me was that it turned brown by the time we were down to the last chip (tops 10 minutes).  pampano, mama mexico, even dos caminos makes fresh guac at your table to order.  are you serious \"So-Cheet\"?  within the first 20 minutes of being at this restaurant, i can understand why they did an opentable spotlight.\n\nThe housemade chips aren't overly greasy and they're the perfect thickness, but is all that salt necessary?\n\nThe mushrooms in the tamale were tasty, but I thought the strong cheese didn't fit in, I could barely taste the pasilla chile gravy or house crema, so I can't say they added much.\n\nExtremely dry, tough and tasteless short ribs--maybe this was the \"lean kind\" but it was really really dry/tough.  the golden potato gordita was great, but the roasted garden veggies were soggy, soaking in sauce, and just as uninteresting as the short ribs.\n\nCompletely dry and tasteless chicken (the special \"pollo frito\")--$25 for a half-chicken, are you serious?!  i made a more tender chicken breast on a fry pan the other night.  (entrees were $30 post-tax across the board--at those prices, I'd go to one of the amazing BYOs Philly offers)  24-hour brined does not make dry chicken!!!\n\nThe doughnuts were an incredible disappointment.  the chocolate sauce and whatever fruity sauce (they called it strawberry) they brought out seemed like they came out of a can and a film formed on the top of the chocolate almost instantly.  they should learn a thing or two from the stanton social.\n\nI would give this place 2 stars but for the fact that the service was pretty terrible despite the very nice disposition of the waitress.  finished glasses and plates were not taken away unless we stacked them on top of each other and placed literally on the edge of the table.  the restaurant was hardly full so there was no excuse.  i specifically asked for no salt on my margarita, but surprise surprise, it came with salt.  my friend's first drink of the night never got cleared from the table--with 4 people at the table, are...you...for real?  i can appreciate paying happy hour prices for these drinks, but aside from the fresh ingredients like lemons, limes, mint, truly nothing to warrant the $10-15 cocktails (the cocktails go up in price from there).  the flights of tequila we tried were delicious but they could not make up for the fact that the food sucks.  sorry for the bluntness.",
+      "authorship_score": 82,
+      "profile_strength": 72,
+      "profile_strength_label": "moderate",
+      "rewrite_count": 0,
+      "trigger_match": {
+        "base_rating": 2.82,
+        "praise_hits": [
+          "love it",
+          "awesome",
+          "delicious"
+        ],
+        "complaint_hits": [],
+        "flavour_hits": [
+          "authentic"
+        ],
+        "praise_bonus": 0.6,
+        "complaint_penalty": 0.0,
+        "flavour_bonus": 0.15,
+        "adjusted_rating": 3.67,
+        "predicted_star": 3.67,
+        "explanation": "Base: 2.8\u2605 +0.6 praise match (love it, awesome, delicious) +0.1 flavour match (authentic) = 3.7\u2605 \u2192 3.67\u2605"
+      }
+    },
+    {
+      "user_id": "f8WiVpa4b0TPmEFjEoEhfA",
+      "business_id": "WZgfBnIvBZ2B7OWkyiOPUA",
+      "predicted_rating": 1,
+      "actual_rating": 1.0,
+      "rating_error": 0.0,
+      "review_text": "Stopped by this Raley's in Reno, NV, expecting better. Unreal. Empty shelves everywhere. No bakery bread, and the few remaining items looked stale. The rice and black beans are O.K., but that's about it. Compared to other Raley's stores, this one falls short. Can they restock and improve? No such luck.",
+      "actual_text": "Still empty shelves. My Wife's Sister's Raley's doesn't have these problems. The Manager should spend less time writing insincere replies here and more time getting product to restock.",
+      "authorship_score": 82,
+      "profile_strength": 52,
+      "profile_strength_label": "moderate",
+      "rewrite_count": 0,
+      "trigger_match": {
+        "base_rating": 1.77,
+        "praise_hits": [
+          "decent"
+        ],
+        "complaint_hits": [
+          "tough",
+          "stale"
+        ],
+        "flavour_hits": [],
+        "praise_bonus": 0.2,
+        "complaint_penalty": 0.5,
+        "flavour_bonus": 0.0,
+        "adjusted_rating": 1.0,
+        "predicted_star": 1.0,
+        "explanation": "Base: 1.8\u2605 +0.2 praise match (decent) -0.5 complaint match (tough, stale) = 1.0\u2605 \u2192 1.0\u2605"
+      }
+    },
+    {
+      "user_id": "oSeE_p_gYxI82APPWJhJjg",
+      "business_id": "zwTmOj4B_OVPMTMYijQiKg",
+      "predicted_rating": 2,
+      "actual_rating": 3.0,
+      "rating_error": -1.0,
+      "review_text": "I stopped by Queen Sheba on a Friday night, and I've got to say, it was a pretty underwhelming experience. The place had a bit of a dingy vibe going on, with dim lighting that made it hard to see the TV screens showing sports games. The atmosphere was loud and rowdy, with a bunch of people cheering and chanting along to the games. I ordered a few drinks and some fries to snack on, which took a little while to arrive. The fries were okay, I guess - they were pretty standard, not particularly great, but not bad either. The service was friendly, but our server seemed a bit overwhelmed, which didn't help. I've heard the hype about Queen Sheba being a great spot for karaoke, but I didn't get a chance to try it out. From what I saw, the crowd seemed to be having some fun, but it wasn't really my scene. Overall, I'd say Queen Sheba is a decent spot if you're looking for a sports bar with a lively atmosphere, but it's not exactly a hidden gem. The prices were pretty reasonable, but I didn't feel like I got much value for my money. Compared to other spots like Dunkin' Donuts, which I've had better experiences at, Queen Sheba fell a bit short. Maybe I just caught it on a bad night, but I wouldn't rush back.",
+      "actual_text": "3.5 stars.\n\nI went here with a group of Yelpers after a visit to Dock Street. It's somewhat dingy and dark at night. There are two sections, the main bar and another section with sit down booths and a karaoke machine. Fortunately, or unfortunately depending on your view of karaoke, it was karaoke night. Sort of like American Idol tryouts in real time, without the pompous British arsehole. There were actually some good singers, though by in large it was mostly juiced up partiers with an exaggerated opinion of their singing ability. The highlight was watching this guy dressed in Avril Lavigne arm bands singing and dancing without a care in the world. \n\nDrink prices were ridiculously cheap. I think for 4 people we got two gin an tonics an two beers for under 20 bucks. The waitress was attentive and fast.\n\nI have to admit this wasn't a place I would have visited if friends hadn't prodded me into going. I'm glad I did.",
+      "authorship_score": 82,
+      "profile_strength": 62,
+      "profile_strength_label": "moderate",
+      "rewrite_count": 0,
+      "trigger_match": {
+        "base_rating": 2.94,
+        "praise_hits": [],
+        "complaint_hits": [],
+        "flavour_hits": [
+          "intimate",
+          "warm"
+        ],
+        "praise_bonus": 0.0,
+        "complaint_penalty": 0.0,
+        "flavour_bonus": 0.3,
+        "adjusted_rating": 3.46,
+        "predicted_star": 3.46,
+        "explanation": "Base: 2.9\u2605 +0.3 flavour match (intimate, warm) = 3.5\u2605 \u2192 3.46\u2605"
+      }
+    },
+    {
+      "user_id": "xJpvRrk04rb4rgWtMXaPUQ",
+      "business_id": "jMZ56S8Y1t7cA1Ob-d-qeA",
+      "predicted_rating": 4,
+      "actual_rating": 5.0,
+      "rating_error": -1.0,
+      "review_text": "I stumbled upon Three Muses while exploring the Marigny. Cool spot, right on the corner. Pretty chill vibe, too - like a fun little hangout. They've got some great music going on, jazz and blues mostly. My friend and I grabbed a drink at the bar, which was decent. Not too pricey, either - mid-range, so that's a plus. The bartender was nice, too, very friendly. Now, the food - I had their burger, which was delicious. Unreal, actually. Some of the reviewers mentioned great food, and they weren't lying. Definitely a spot to check out, especially on a Sunday Funday. Tip: WiFi password is ThreeMuses123, just FYI. All in all, pretty solid experience.",
+      "actual_text": "Nice little piano bar/restaurant. They were unable to seat us for dinner, so we just posted up at the bar (where you can order food anyway) and eventually got enough seats for our group.\n\nTheir menu selection is a step up from what I would've expected. A lot of Asian-inspired dishes, and some nicer stuff. I got the duck confit crostini, and the grilled lamb. It was all pretty good. My friend got the Brussels sprouts that came topped with crushed ramen, which was funny.\n\nHeard some fun piano music, ate some food, had a bunch of whiskey (they have a great selection). All in all, a great night.",
+      "authorship_score": 82,
+      "profile_strength": 52,
+      "profile_strength_label": "moderate",
+      "rewrite_count": 0,
+      "trigger_match": {
+        "base_rating": 4.68,
+        "praise_hits": [],
+        "complaint_hits": [],
+        "flavour_hits": [
+          "decent",
+          "delicious",
+          "good"
+        ],
+        "praise_bonus": 0.0,
+        "complaint_penalty": 0.0,
+        "flavour_bonus": 0.4,
+        "adjusted_rating": 5.0,
+        "predicted_star": 5.0,
+        "explanation": "Base: 4.7\u2605 +0.4 flavour match (decent, delicious, good) = 5.0\u2605 \u2192 5.0\u2605"
+      }
+    },
+    {
+      "user_id": "sHUGfdxpoliHiNlGFn29oQ",
+      "business_id": "aiqbuqwA8ZyTuu4W5JaD3g",
+      "predicted_rating": 5,
+      "actual_rating": 4.0,
+      "rating_error": 1.0,
+      "review_text": "I'm a sucker for a good dive bar, and Danny's Baboquivari Restaurant & Lounge is definitely one of my favorites. Decided to stop by for a drink (or two, or three...) with friends. Unreal. The bartender knows us by name and by drink of choice - it's a beautiful thing. Fresh pours, great prices, and a jukebox that's always on point. The patio out back is perfect for catching up and making new friends. Love the vibe here, it's just a really cool spot. I've been a few times, and the food's always been great too - tender, love at first bite. No such luck with wait times on a busy night, but it's worth it. Everyone seems to love it here, and I'm no exception. Absolutely will be back. Highly recommend.",
+      "actual_text": "Ahhh dive bars. \nOh how I love thee. \nDanny's is just one of many, but most definitely a favorite. \nCannot lie, we are there frequently enough to be known not only by name but by drink of choice that is nicely poured (and priced) as well. \nJuke box has a great selection and clientele is almost as varied as the juke box. Back patio makes for great conversation and friend making. No seriously, I have made 2 life-long friends cause of this place. \nBathrooms are...well, dive bar bathrooms so don't expect much. Just don't touch more than you need to, do your thing and get outta there.",
+      "authorship_score": 82,
+      "profile_strength": 50,
+      "profile_strength_label": "moderate",
+      "rewrite_count": 0,
+      "trigger_match": {
+        "base_rating": 4.37,
+        "praise_hits": [
+          "dive bars",
+          "favorite drinks"
+        ],
+        "complaint_hits": [],
+        "flavour_hits": [],
+        "praise_bonus": 0.4,
+        "complaint_penalty": 0.0,
+        "flavour_bonus": 0.0,
+        "adjusted_rating": 5.0,
+        "predicted_star": 5.0,
+        "explanation": "Base: 4.4\u2605 +0.4 praise match (dive bars, favorite drinks) = 5.0\u2605 \u2192 5.0\u2605"
+      }
+    },
+    {
+      "user_id": "JfUlPohoQnp79eAqwUFVMA",
+      "business_id": "WWnRdTjwaTnsLSJX95j-Zw",
+      "predicted_rating": 4,
+      "actual_rating": 5.0,
+      "rating_error": -1.0,
+      "review_text": "Stopped by Hablo Taco last Friday night. Great tacos, really fantastic. High-quality food, definitely authentic. Service was good, friendly staff. Atmosphere's pretty cool, too. Hours are super convenient, love that they're open late. Overall, I'd highly recommend. Try the tacos, you won't regret it.",
+      "actual_text": "Everything here is a hit. I've personally had the \"Buffy the puffy\" as well as their guacamole..... Both fantastic. \n\nThis is my favorite restaurant in the Channelside area. You really cant go wrong with the food and drinks. I highly recommend their frozen margarita. The location and the ambiance of this restaurant is great. You can sit and eat outside with downtown views or sit inside where they have so many tvs-- its a great place to watch the games.",
+      "authorship_score": 82,
+      "profile_strength": 50,
+      "profile_strength_label": "moderate",
+      "rewrite_count": 0,
+      "trigger_match": {
+        "base_rating": 4.44,
+        "praise_hits": [
+          "fantastic food"
+        ],
+        "complaint_hits": [
+          "long wait times",
+          "poor service"
+        ],
+        "flavour_hits": [
+          "fantastic"
+        ],
+        "praise_bonus": 0.2,
+        "complaint_penalty": 0.5,
+        "flavour_bonus": 0.15,
+        "adjusted_rating": 4.13,
+        "predicted_star": 4.130000000000001,
+        "explanation": "Base: 4.4\u2605 +0.2 praise match (fantastic food) +0.1 flavour match (fantastic) -0.5 complaint match (long wait times, poor service) = 4.1\u2605 \u2192 4.130000000000001\u2605"
+      }
+    },
+    {
+      "user_id": "yGlX267e1cfThMwyDtmYEw",
+      "business_id": "7in6dT2FVNf0ruyHYJCZNg",
+      "predicted_rating": 2,
+      "actual_rating": 3.0,
+      "rating_error": -1.0,
+      "review_text": "Stopped by Dickey's Barbecue Pit recently. 2nd visit, but not impressed. Ordered a few meats, sides too. Meats were okay, not great. Portion sizes small, no such luck. I really wanted to love their hummus, but they don't even have it. Variety lacking, super basic. Value? Not really, $15 for a tiny plate. Struggled with service, waited. Definitely not a fan. Tips: try elsewhere for bbq.",
+      "actual_text": "I'm really struggling with this review. I've eaten at numerous Dickey's all around. The location in Love Field airport is my favorite. Airport food shouldn't be better than my local joint. \n\nThe staff tonight was super friendly. Just two guys working and there was only 1 takeout guest The whole time we were dining, which is odd at peak dining hours. \n\nOrdered the deal of the day- pork sandwich (skipped the bread) , 2 sides, and big yellow cup for $9.99\n\nThe pork was good but cold by the time we got to the table. Slaw was good. I tried something new and tried the fried okra. It was made to order and pretty good. \n\nThe food was good, but just not great. I'd probably opt for another bbq joint next time I'm craving bbq.",
+      "authorship_score": 82,
+      "profile_strength": 50,
+      "profile_strength_label": "moderate",
+      "rewrite_count": 0,
+      "trigger_match": {
+        "base_rating": 3.22,
+        "praise_hits": [],
+        "complaint_hits": [],
+        "flavour_hits": [
+          "flavorful",
+          "delicious"
+        ],
+        "praise_bonus": 0.0,
+        "complaint_penalty": 0.0,
+        "flavour_bonus": 0.3,
+        "adjusted_rating": 2.77,
+        "predicted_star": 2.77,
+        "explanation": "Base: 3.2\u2605 +0.3 flavour match (flavorful, delicious) = 2.8\u2605 \u2192 2.77\u2605"
+      }
+    },
+    {
+      "user_id": "cP-UyxlDAJuOTUdrerySGQ",
+      "business_id": "kZtl_NJjUnlIQgzFrBhXyQ",
+      "predicted_rating": 4,
+      "actual_rating": 3.0,
+      "rating_error": 1.0,
+      "review_text": "Stopped by Ichiban in Santa Barbara, pretty great spot. Fresh sushi, which is what I'm looking for. Tasty miso grilled salmon, nice sake to wash it down. The spicy tuna roll was a bit too spicy, but good. All seating is inside, which is nice on a chilly evening. Service was friendly and attentive, our server was great. Overall, a really great experience, definitely recommend. Only thing, can be a little pricey, but worth it. Unreal sushi, love this place.",
+      "actual_text": "After several recommendations from locals, I decided to give Ichiban a try. The nigiri's were very good, nice sake, japanese scallop. The scallop was maybe the best thing I had all night. Also had uni nigiri which was ok...feel like it could have been fresher...didn't have that same ocean brinyness.  Also got the caterpillar role which was pretty tasty.\n\nI ordered kama as well and it took probably 45 minutes to come out for some reason. And the hamachi didn't taste as fresh or maybe because it was overcooked. I wondered if that was to mask the freshness? It was just ok at best which was unfortunate, because a well cooked kama can melt in your mouth and this felt like eating canned tuna.\n\nLastly, price was also ok...a bit pricey for the locale being a neighborhood restaurant and the quality being a bit hit or miss.",
+      "authorship_score": 82,
+      "profile_strength": 60,
+      "profile_strength_label": "moderate",
+      "rewrite_count": 0,
+      "trigger_match": {
+        "base_rating": 3.53,
+        "praise_hits": [
+          "great service",
+          "freshness"
+        ],
+        "complaint_hits": [],
+        "flavour_hits": [
+          "fresh",
+          "tasty",
+          "beefy"
+        ],
+        "praise_bonus": 0.4,
+        "complaint_penalty": 0.0,
+        "flavour_bonus": 0.4,
+        "adjusted_rating": 4.53,
+        "predicted_star": 4.53,
+        "explanation": "Base: 3.5\u2605 +0.4 praise match (great service, freshness) +0.4 flavour match (fresh, tasty, beefy) = 4.5\u2605 \u2192 4.53\u2605"
+      }
+    },
+    {
+      "user_id": "vXJ7qdNJY4Rjv0zcKkdKYg",
+      "business_id": "O6hY9yenifuRXrpc4TfgsQ",
+      "predicted_rating": 4,
+      "actual_rating": 5.0,
+      "rating_error": -1.0,
+      "review_text": "I stopped by The Blue Duck with friends and we had a great time. The Quack and Cheese was amazing, definitely a highlight. Duck fries were delicious, simply the best I've had. Service was good, our server was friendly and attentive. Atmosphere was cute, little center city style vibe. No such luck with the Porkroll Burger, it was just okay. But overall, a great experience, I'd definitely come back. And the duck, oh man, it was grilled to perfection. Pretty pricey, but worth it. Very recommended, especially the dessert tray.",
+      "actual_text": "If you are looking for something different to eat in NE philly, this is your place! The blue duck is a delicious and cute little restaurant. I have been here multiple times and had a few burgers and a few of the mac and cheese entrees and I was never disappointed. I have yet to try it for lunch. The service is top notch too. I hope to get back here soon!",
+      "authorship_score": 82,
+      "profile_strength": 60,
+      "profile_strength_label": "moderate",
+      "rewrite_count": 0,
+      "trigger_match": {
+        "base_rating": 3.77,
+        "praise_hits": [
+          "blue duck"
+        ],
+        "complaint_hits": [],
+        "flavour_hits": [
+          "delicious",
+          "amazing",
+          "good"
+        ],
+        "praise_bonus": 0.2,
+        "complaint_penalty": 0.0,
+        "flavour_bonus": 0.4,
+        "adjusted_rating": 4.96,
+        "predicted_star": 4.96,
+        "explanation": "Base: 3.8\u2605 +0.2 praise match (blue duck) +0.4 flavour match (delicious, amazing, good) = 5.0\u2605 \u2192 4.96\u2605"
+      }
+    },
+    {
+      "user_id": "CFz3L6qyL23Ey3PBtTCZzw",
+      "business_id": "SsRsSSifdOtKAQDGST_m_g",
+      "predicted_rating": 5,
+      "actual_rating": 4.0,
+      "rating_error": 1.0,
+      "review_text": "Stopped by Three Carrots for lunch today. Unreal. Ordered the buffalo mac and cheese, and it's definitely a game-changer. The flavors are solid, and I love the vibe here. Great atmosphere, super clean, and friendly staff. Prices are pretty fair too. I'm glad I did try this place, and I'm definitely coming back. No such luck finding a bad thing to say. Five stars, hands down.",
+      "actual_text": "Finally made it to three carrots today for lunch and im glad I did. We are all trying to lie about our new years diet but with this restaurant a block away from my work, I wont have to lie. At this funky little bistro you dont realize your eating healthy vegetarian food. I havent had anything i didnt like and the meals and drinks are fairly proced. Im going back and you should to.",
+      "authorship_score": 82,
+      "profile_strength": 60,
+      "profile_strength_label": "moderate",
+      "rewrite_count": 0,
+      "trigger_match": {
+        "base_rating": 4.09,
+        "praise_hits": [
+          "clean"
+        ],
+        "complaint_hits": [],
+        "flavour_hits": [
+          "delicious",
+          "good",
+          "fresh"
+        ],
+        "praise_bonus": 0.2,
+        "complaint_penalty": 0.0,
+        "flavour_bonus": 0.4,
+        "adjusted_rating": 5.0,
+        "predicted_star": 5.0,
+        "explanation": "Base: 4.1\u2605 +0.2 praise match (clean) +0.4 flavour match (delicious, good, fresh) = 5.0\u2605 \u2192 5.0\u2605"
+      }
+    },
+    {
+      "user_id": "pDtf2NtkXaBzY-eEMVo35g",
+      "business_id": "UCMSWPqzXjd7QHq7v8PJjQ",
+      "predicted_rating": 5,
+      "actual_rating": 5.0,
+      "rating_error": 0.0,
+      "review_text": "Kouign-amann might be one of the best pastries I've ever had! Stopped by Prep & Pastry for breakfast. Great vibes, super cute spot. Ordered the Morning Cuban and wings - just wow, so good! Flowing coffee, lovely atmosphere. Definitely worth the visit. Love this place!",
+      "actual_text": "Decided to try out a breakfast spot near my brother's home and this was an unexpected surprise.\n\nAtmosphere - Cute kitchen themed breakfast-brunch spot. They have all the fresh pastries lined up on racks for display between the restaurant and the kitchen. The bar area is laid out in a way to allow for lots of patrons to sit and eat. I found the whole decor to be very welcoming. \n\nService - We were promptly seated at the bar where we had exceptional service from the bartender. We asked about the best Dissents that were available and were given a strong recommendation for the Churro-style. Our drinks were served quickly and were greeted throughout the meal asking if there was anything eel we needed. \n\nBloody Mary - Not overly spicy, but enough tang to keep it sweet and bold. The toppings of cheese, salami, pickle, and olive were a great balance to the drink. I loved the small beer back that came with the order. A solid choice for a morning beverage ($5)\n\nChurro Dossant - Recommended by the bartender as it was his, \"favorite flavor of dossant they make\". I have had many dossants, doughssants, or cronuts, but have found that many are greasy or fall apart once you bite into them. This one did not! It was a wonderfully light and fluffy pastry with a thick layer of cream cheese frosting that paired so well with the cinnamon and sugar. ($4)\n\nBiscuits & Gravy - Cheddar biscuit, sausage, and duck fat gravy that sounds as good as it tasted! I could have used a little more gravy, but the flavors in every bite made it so wonderful! I added two eggs over easy for $2. ($6)\n\nI was very impressed by the place overall and am hoping to go back and try more pastries and breakfast before i leave! Well done guys!",
+      "authorship_score": 80,
+      "profile_strength": 60,
+      "profile_strength_label": "moderate",
+      "rewrite_count": 0,
+      "trigger_match": {
+        "base_rating": 4.16,
+        "praise_hits": [],
+        "complaint_hits": [
+          "price"
+        ],
+        "flavour_hits": [
+          "spicy",
+          "sweet",
+          "savory"
+        ],
+        "praise_bonus": 0.0,
+        "complaint_penalty": 0.25,
+        "flavour_bonus": 0.4,
+        "adjusted_rating": 5.0,
+        "predicted_star": 5.0,
+        "explanation": "Base: 4.2\u2605 +0.4 flavour match (spicy, sweet, savory) -0.2 complaint match (price) = 5.0\u2605 \u2192 5.0\u2605"
+      }
+    },
+    {
+      "user_id": "vL-7Z3rtMYLbY-L7Xd0JAw",
+      "business_id": "X_E7U2lVNEwbH_gpOBmAHQ",
+      "predicted_rating": 5,
+      "actual_rating": 4.0,
+      "rating_error": 1.0,
+      "review_text": "I stumbled upon Cerveza Jack's on a lively Friday night in Nashville, and man, it was a great find. Unreal atmosphere - they had a huge patio area buzzing with people watching the big game, and the music was pumping inside. I came for a specialty drink, and their 'Cerveza Margarita' did not disappoint - a clever twist on a classic, made with fresh lime juice and a bit of agave. The vibe was bustling, but the service was friendly and attentive, our server was knowledgeable about the menu and made some awesome recommendations. We ordered a few tacos to share, and their Nashville hot fried chicken taco was a highlight - huge chunks of crispy fried chicken in a spicy cayenne pepper sauce, with a dab of cooling coleslaw on top. Even the guacamole was great, and I'm super picky about my guac. No such luck with getting a table by the bar, but we made do. Definitely recommend Cerveza Jack's for a fun night out with friends - and their live music is a big plus. So, if you're in Nashville, do yourself a favor and stop by. Really great spot.",
+      "actual_text": "A lively bar with lively food with a bit of a Mexican twist.\n\nWe stopped in here for a great drink made from orange juice and rum and enjoyed their famous Nashville hot fried chicken taco.  The taco had huge chunks of fried white meat drenched in a spicy cayenne pepper sauce with a dab of cooling coleslaw on top and served on a street-taco-sized flour tortilla.  The sweet cool drink was the perfect pairing to douse the fireworks from the hot chicken.\n\nOther items on the menu also looked good and even at lunch there was live music which was really nice.  I'd definitely stop back and try them again.",
+      "authorship_score": 82,
+      "profile_strength": 60,
+      "profile_strength_label": "moderate",
+      "rewrite_count": 0,
+      "trigger_match": {
+        "base_rating": 4.27,
+        "praise_hits": [
+          "great drinks"
+        ],
+        "complaint_hits": [],
+        "flavour_hits": [
+          "spicy",
+          "lively"
+        ],
+        "praise_bonus": 0.2,
+        "complaint_penalty": 0.0,
+        "flavour_bonus": 0.3,
+        "adjusted_rating": 5.0,
+        "predicted_star": 5.0,
+        "explanation": "Base: 4.3\u2605 +0.2 praise match (great drinks) +0.3 flavour match (spicy, lively) = 5.0\u2605 \u2192 5.0\u2605"
+      }
+    },
+    {
+      "user_id": "W5CQmmHrLdccNvjtC9kt2g",
+      "business_id": "dO4iyNK2KzLMe1kXLCskbw",
+      "predicted_rating": 5,
+      "actual_rating": 5.0,
+      "rating_error": 0.0,
+      "review_text": "I'm a big fan of great food and St. Declan's Well delivers. Stopped by on a Saturday and was blown away. The menu had some fantastic options, I went with the Irish stew - incredible. Service was top-notch, friendly staff and great atmosphere. It's not your typical bar, it's more like a cozy pub. The perfect spot to grab a drink and some delicious food. I want to go back, definitely. No such luck with getting there early, the line was long. But worth it, the food and service made up for it. Fabulous experience overall, I'd highly recommend. Really great addition to the neighborhood. And the hours are super convenient for me. I've been to a lot of spots in Philly, but this one stands out. Great job, St. Declan's Well!",
+      "actual_text": "Upgrading this to 5 stars. I've now visited this place at least a half a dozen times and the food and service is just consistently great.  This evening I had a salmon Florentine for dinner and it was fantastic. The draft beer selections have become more varied and interesting and the place is always clean and the atmosphere really enjoyable (get a seat near the fireplace this time of year).",
+      "authorship_score": 82,
+      "profile_strength": 60,
+      "profile_strength_label": "moderate",
+      "rewrite_count": 0,
+      "trigger_match": {
+        "base_rating": 4.51,
+        "praise_hits": [],
+        "complaint_hits": [],
+        "flavour_hits": [
+          "incredible",
+          "delicious",
+          "great"
+        ],
+        "praise_bonus": 0.0,
+        "complaint_penalty": 0.0,
+        "flavour_bonus": 0.4,
+        "adjusted_rating": 5.0,
+        "predicted_star": 5.0,
+        "explanation": "Base: 4.5\u2605 +0.4 flavour match (incredible, delicious, great) = 5.0\u2605 \u2192 5.0\u2605"
+      }
+    },
+    {
+      "user_id": "ZACjnX0W7CGTOZmEE9-zxg",
+      "business_id": "T2otvNcawDSkhykOG2tOLA",
+      "predicted_rating": 1,
+      "actual_rating": 1.0,
+      "rating_error": 0.0,
+      "review_text": "Wow. IHOP, really? How do you screw up pancakes? Managers seem kinda slow. Wilted brown toast,  no thanks. Two sad breakfasts for $20. Could have eaten elsewhere. This Santa Barbara location sucks.",
+      "actual_text": "Wow.  How do you screw up a finner salad.  Managers response to wilted brown lettuce.   \"Thats how it all is\" 46.00 for two sad dinners.  We could have had a good meal for that.  This location sucks.",
+      "authorship_score": 85,
+      "profile_strength": 44,
+      "profile_strength_label": "limited",
+      "rewrite_count": 0,
+      "trigger_match": {
+        "base_rating": 1.0,
+        "praise_hits": [],
+        "complaint_hits": [],
+        "flavour_hits": [
+          "good"
+        ],
+        "praise_bonus": 0.0,
+        "complaint_penalty": 0.0,
+        "flavour_bonus": 0.15,
+        "adjusted_rating": 1.0,
+        "predicted_star": 1.0,
+        "explanation": "Base: 1.0\u2605 +0.1 flavour match (good) = 1.0\u2605 \u2192 1.0\u2605"
+      }
+    },
+    {
+      "user_id": "HmQAk4HIPENRzktw9Qlelg",
+      "business_id": "YUDcLokFMZOtyWAmVY3jwA",
+      "predicted_rating": 5,
+      "actual_rating": 5.0,
+      "rating_error": 0.0,
+      "review_text": "Great service overall the staff was friendly. Steven and his team were on point. Truly amazing server, his smile's infectious. Took his time explaining the seafood options. I had redfish, it was delicious, great flavor. Just what I needed, great service. Highly recommend Landry's, you'll love it!",
+      "actual_text": "Great service overall the staff was friendly and punctual, Steven is truly an amazing server. He took his time explaining the menu, his infectious smile and sociable personality makes him a great asset. I ordered the Blackened fish \u00c9touff\u00e9e. It was Delicious!!! Just enough seasoning and full of great flavor... Highly recommend!",
+      "authorship_score": 82,
+      "profile_strength": 30,
+      "profile_strength_label": "limited",
+      "rewrite_count": 0,
+      "trigger_match": {
+        "base_rating": 5.0,
+        "praise_hits": [
+          "friendly staff",
+          "great service"
+        ],
+        "complaint_hits": [],
+        "flavour_hits": [],
+        "praise_bonus": 0.4,
+        "complaint_penalty": 0.0,
+        "flavour_bonus": 0.0,
+        "adjusted_rating": 5.0,
+        "predicted_star": 5.0,
+        "explanation": "Base: 5.0\u2605 +0.4 praise match (friendly staff, great service) = 5.0\u2605 \u2192 5.0\u2605"
+      }
+    },
+    {
+      "user_id": "D-bfQA5WoIJpTbNhCgdsEw",
+      "business_id": "fMOVZ-u5IqfJ-lNOCLVm7g",
+      "predicted_rating": 1,
+      "actual_rating": 1.0,
+      "rating_error": 0.0,
+      "review_text": "First off, I've had Korean BBQ elsewhere in various cities because I absolutely love this type of food, and I'm always excited to try new places. I ordered a few dishes at Gin Korean BBQ, but I couldn't help but feel a bit let down due to the flavors, which were fairly bland. When you walk in, it looks really pleasing to the eyes because of its modern look, and the service was friendly, but that didn't quite make up for the food. The party I was with seemed to enjoy their meals, but I found them to be overpriced. Given the options in Metairie, I'd say there are better places to turn for great Korean BBQ. The meat was cooked well, but the sauces and seasonings were lacking, which was really disappointing. I was expecting a lot more flavor due to the restaurant's reputation, but it just didn't live up to my expectations. I've been to various Korean BBQ restaurants, and this one didn't stand out in a good way. I think they need to work on their menu and help their staff understand the importance of flavors. Because of this experience, I wouldn't recommend Gin Korean BBQ to those looking for authentic Korean BBQ. Overall, my experience was soft, and I wouldn't turn back to this place. First, they need to revamp their menu; second, they should focus on training their staff. In conclusion, my verdict is that Gin Korean BBQ needs a lot of improvement, and I wouldn't give it more than one star.",
+      "actual_text": "First off, I've had Korean BBQ elsewhere in various cities because I absolutely love this type of food. I am not going to hold New Orleans to those standards due to its inexperience, but I couldn't help but score this low!\n\nAppearance:\nWhen you walk in, it looks really pleasing to the eyes due to its modern look. There are various TVs hanging on the columns and walls as well as a soft music background playing for the restaurant. It is very spacious and the lighting has a blue hue to it which really had showed on the white furniture. \n\nFood: \nFirst off, my party of 8 had ordered two servings Combo #4 which had various meats. The portions were suffice, but lacked whatever flavor it was supposed to have. It had tasted as though it was quickly dipped into the marinade and given to us. We had also ordered the seafood pancake, but it was a bit lackluster due to its lack of flavor and texture. The sauce given with it did not exemplify its qualities as well. We had also ordered the chicken wings, but I had felt that I was paying more for flavored bones because the wings were so stingy on meat. \n\nService:\nIt was not great, but it wasn't TOO terrible. When we got our orders in, they did turn on our burners on until after the meat had already arrived at the table. When they did turn on the burner, they had only turned on one and didn't show nor tell us how to turn the other one on. I had to have one of my party members ask one of the servers passing by to help turn on the other burner. We also did not have any of the sauces for the meats given to us, so when we had asked for the sauces - they only gave one serving for the eight of us to share(?). \n\nOverall:\nThis place is new and I understand that, but maybe actually open the place when you have a full menu instead of having a menu with sheets of paper 'hiding' what isn't available and stock up on drink options. Food and service needs to be touched up on as well. This would be more acceptable if it were still in a soft opening phase, but not to be in its full functioning(?) phase.",
+      "authorship_score": 82,
+      "profile_strength": 14,
+      "profile_strength_label": "limited",
+      "rewrite_count": 0,
+      "trigger_match": {
+        "base_rating": 1.0,
+        "praise_hits": [],
+        "complaint_hits": [],
+        "flavour_hits": [],
+        "praise_bonus": 0.0,
+        "complaint_penalty": 0.0,
+        "flavour_bonus": 0.0,
+        "adjusted_rating": 1.17,
+        "predicted_star": 1.17,
+        "explanation": "Base: 1.0\u2605 = 1.2\u2605 \u2192 1.17\u2605"
+      }
+    },
+    {
+      "user_id": "OUIX87Vc_KfJNyuCjTunvg",
+      "business_id": "Swjkmg5qAHT6hwXQRWQoHQ",
+      "predicted_rating": 5,
+      "actual_rating": 5.0,
+      "rating_error": 0.0,
+      "review_text": "Ok. I'm so glad we stopped by. Our server, Rachel, was super nice. The service was top notch. We ordered The Bomb burger and fries. Delicious treats!!! Everything was fresh and tasty. The atmosphere was chill too. Please come for the beer selection. Much to choose from. Love this place!",
+      "actual_text": "Ok. We did come for the beer. But... we left with so much more. Our server, Alexis (please forgive us if the spelling is wrong), was everything we love in not just a service oriented person but a person in general. She was intuitive, super funny, VERY knowledgeable and above all, kind. Our food was amazing!!! Please try the chili! A sweet Smokey flavor with zing! The Buffalo chicken Cobb was fantastic!!! We think Bern's has some competition with the French Onion soup TBBC served. It was amazing!!! The burger was super as well!!! We can't say enough about the patience the staff had with us given all of our questions. Thank you for such a wonderful experience! Please let Alexis know she is blessed with a beautiful spirit and a special gift to serve!",
+      "authorship_score": 80,
+      "profile_strength": 40,
+      "profile_strength_label": "limited",
+      "rewrite_count": 0,
+      "trigger_match": {
+        "base_rating": 5.0,
+        "praise_hits": [
+          "service",
+          "beer",
+          "delicious treats",
+          "server"
+        ],
+        "complaint_hits": [],
+        "flavour_hits": [],
+        "praise_bonus": 0.6,
+        "complaint_penalty": 0.0,
+        "flavour_bonus": 0.0,
+        "adjusted_rating": 5.0,
+        "predicted_star": 5.0,
+        "explanation": "Base: 5.0\u2605 +0.6 praise match (service, beer, delicious treats, server) = 5.0\u2605 \u2192 5.0\u2605"
+      }
+    },
+    {
+      "user_id": "MIFlITIOfcrp2Ndhwk_SqA",
+      "business_id": "CEtW6hZfqqd888WFdxv2lw",
+      "predicted_rating": 4,
+      "actual_rating": 4.0,
+      "rating_error": 0.0,
+      "review_text": "The food was great and portion size excellent. Service was good, but decor was little dated. Hey, great prices and excellent service overall. Would recommend giving Augie's a geaux.",
+      "actual_text": "The food was great and portion size was excellent. Decor was a little dated, but hey it's N'awlins. Good prices and excellent service. Would recommend giving them a geaux.",
+      "authorship_score": 85,
+      "profile_strength": 36,
+      "profile_strength_label": "limited",
+      "rewrite_count": 0,
+      "trigger_match": {
+        "base_rating": 4.0,
+        "praise_hits": [
+          "excellent service",
+          "great food"
+        ],
+        "complaint_hits": [],
+        "flavour_hits": [],
+        "praise_bonus": 0.4,
+        "complaint_penalty": 0.0,
+        "flavour_bonus": 0.0,
+        "adjusted_rating": 4.09,
+        "predicted_star": 4.09,
+        "explanation": "Base: 4.0\u2605 +0.4 praise match (excellent service, great food) = 4.1\u2605 \u2192 4.09\u2605"
+      }
+    }
+  ],
+  "summary": {
+    "rmse": 0.8718,
+    "avg_authorship": 82.0,
+    "model": "meta-llama/llama-4-scout-17b-16e-instruct",
+    "embedder": "all-MiniLM-L6-v2",
+    "sim_threshold": 0.45
+  }
+}
